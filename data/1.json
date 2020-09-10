@@ -1,0 +1,11 @@
+[
+    {
+        "retweeted": false,
+        "source": "",
+        "entities": {
+            "hashtags": [ ],
+            "symbols": [ ],
+            "user_mentions": []
+        }
+    }
+]
