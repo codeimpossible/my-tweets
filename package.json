@@ -1,4 +1,6 @@
 {
+  "name": "my-tweets",
+  "version": "0.0.1-alpha.1",
   "dependencies": {
     "md5": "^2.3.0",
     "oauth": "^0.9.15"
