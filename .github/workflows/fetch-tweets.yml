@@ -1,0 +1,26 @@
+name: Fetch Tweets
+on: 
+  workflow_dispatch:
+
+jobs:
+   remove:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Prep
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12'
+    - name: Fetch Tweets
+      uses: actions/checkout@v2
+    - run: |
+        yarn install
+        node ./src/main.js ${GITHUB_USER}
+        count=@?
+        if [[ "$count" != "0" ]]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "adds $count new tweets"
+            git push
+        fi
+        
