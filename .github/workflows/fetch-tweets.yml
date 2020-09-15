@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 jobs:
-   remove:
+   fetch:
     runs-on: ubuntu-latest
     steps:
     - name: Prep
@@ -14,10 +14,9 @@ jobs:
       run: npm version minor
     - name: Fetch Tweets
       uses: actions/checkout@v2
-      env:
-        GITHUB_USER: 'codeimpossible'
     - name: Fetch tweets and push
       env:
+        GITHUB_USER: 'codeimpossible'
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
