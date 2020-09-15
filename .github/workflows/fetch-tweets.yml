@@ -1,0 +1,35 @@
+name: Fetch Tweets
+on: 
+    workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Prep
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12'
+    - name: Fetch Tweets
+      uses: actions/checkout@v2
+    - name: Update package version
+      run: npm version minor
+    - name: Fetch tweets and push
+      env:
+        GITHUB_USER: 'codeimpossible'
+        TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
+        TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      run: |
+        yarn install
+        node ./bin/main.js ${GITHUB_USER}
+        count=@?
+        if [[ "$count" != "0" ]]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "adds $count new tweets"
+            git push
+        fi
+        
