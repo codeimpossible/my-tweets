@@ -12,8 +12,6 @@ jobs:
         node-version: '12'
     - name: Fetch Tweets
       uses: actions/checkout@v2
-    - name: Update package version
-      run: npm version minor
     - name: Fetch tweets and push
       env:
         GITHUB_USER: 'codeimpossible'
@@ -26,8 +24,11 @@ jobs:
         node ./bin/main.js ${GITHUB_USER}
         count=@?
         if [[ "$count" != "0" ]]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
             git add .
             git commit -m "adds $count new tweets"
+            npm version minor
             git push
         fi
         
