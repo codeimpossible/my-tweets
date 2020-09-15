@@ -27,7 +27,6 @@ if (fs.existsSync(credentialsFile)) {
     if (tweets.length > 0 && !tweets.errors) {
         await storeTweets(tweets);
         console.log(`🐣 stored ${tweets.length} tweets.`);
-        process.exit(tweets.length);
     }
     process.exit(0);
 })(args[0], index.latestId);
