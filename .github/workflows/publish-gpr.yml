@@ -13,6 +13,7 @@ jobs:
         with:
           node-version: '12'
           registry-url: 'https://npm.pkg.github.com'
+          scope: 'codeimpossible'
       # Publish to GitHub Packages
       - run: npm publish --registry=https://npm.pkg.github.com
         env:
