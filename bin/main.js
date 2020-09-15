@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const {fetchTweets, setCredentials} = require('./fetch-tweets');
-const {index, storeTweets} = require('./db');
+const { fetchTweets, setCredentials } = require('./../src/fetch-tweets');
+const { index, storeTweets } = require('./../src/db');
 
 const args = process.argv.slice(2);
 

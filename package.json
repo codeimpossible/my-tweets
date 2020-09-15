@@ -1,6 +1,20 @@
 {
   "name": "my-tweets",
   "version": "0.0.1-alpha.1",
+  "homepage": "https://github.com/codeimpossible/my-tweets#readme",
+  "bugs": {
+    "url": "https://github.com/owner/my-tweets/issues"
+  },
+  "author": "Jared Barboza <jared.m.barboza@gmail.com> (http://jaredbarboza.me/)",
+  "files": [
+    "package.json",
+    "README.md",
+    "yarn.lock",
+    "data/**.json",
+    "src/db/**.js",
+    "index.js"
+  ],
+  "license" : "MIT",
   "dependencies": {
     "md5": "^2.3.0",
     "oauth": "^0.9.15"
