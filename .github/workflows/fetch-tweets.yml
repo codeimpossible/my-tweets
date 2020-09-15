@@ -1,6 +1,8 @@
-name: Fetch Tweets
+name: Fetch Tweets and Publish new package
 on: 
     workflow_dispatch:
+    schedule:
+      - cron:  '0 0 * * 6' 
 
 jobs:
   fetch:
@@ -10,6 +12,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12'
+        registry-url: 'https://npm.pkg.github.com'
+        scope: 'codeimpossible'
     - name: Fetch Tweets
       uses: actions/checkout@v2
     - name: Fetch tweets and push
@@ -19,10 +23,11 @@ jobs:
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
         TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         yarn install
         node ./bin/main.js ${GITHUB_USER}
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add .
-        { git commit -m "adds $count new tweets" && npm version minor && git push; } || true
+        { git commit -m "adds $count new tweets" && npm version minor && git push && npm publish --registry=https://npm.pkg.github.com; } || true

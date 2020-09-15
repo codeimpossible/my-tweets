@@ -1,4 +1,4 @@
-name: Publish to GitHub Packages
+name: Publish to GitHub Packages (Manual)
 on:
   workflow_dispatch:
 
