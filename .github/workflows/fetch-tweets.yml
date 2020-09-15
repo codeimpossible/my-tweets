@@ -1,6 +1,6 @@
 name: Fetch Tweets
 on: 
-  workflow_dispatch:
+    workflow_dispatch:
 
 jobs:
   fetch:
