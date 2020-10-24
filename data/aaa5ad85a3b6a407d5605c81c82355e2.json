@@ -1,0 +1,922 @@
+[
+  {
+    "created_at": "Fri Oct 23 14:55:52 +0000 2020",
+    "id": 1319653775129411600,
+    "id_str": "1319653775129411588",
+    "text": "RT @anthonypjshaw: I choked slightly when this worked. Python 3.9 is evaluating and executing on .NET 5's JIT engine. Importing modules, ex…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "anthonypjshaw",
+          "name": "Anthony Shaw 🐍",
+          "id": 18185983,
+          "id_str": "18185983",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "future skeleton. enby introvert. dev @Hudl. toots about code, pixel art, cooking, cats, empathy and video games. opinions here are mine. they/them",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1235,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4022,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12993,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 23 09:58:08 +0000 2020",
+      "id": 1319578846224552000,
+      "id_str": "1319578846224551938",
+      "text": "I choked slightly when this worked. Python 3.9 is evaluating and executing on .NET 5's JIT engine. Importing module… https://t.co/oc80w20mE2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oc80w20mE2",
+            "expanded_url": "https://twitter.com/i/web/status/1319578846224551938",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18185983,
+        "id_str": "18185983",
+        "name": "Anthony Shaw 🐍",
+        "screen_name": "anthonypjshaw",
+        "location": "Sydney, Australia",
+        "description": "SVP of Talent @GlobalNTT, x3 Father, Christian, @TheASF member, @ThePSF Fellow, @Pluralsight Author, @realpython author",
+        "url": "https://t.co/Ro2N0346iO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Ro2N0346iO",
+                "expanded_url": "https://tonybaloney.github.io/",
+                "display_url": "tonybaloney.github.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5716,
+        "friends_count": 2442,
+        "listed_count": 292,
+        "created_at": "Wed Dec 17 09:20:45 +0000 2008",
+        "favourites_count": 4932,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14947,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249968775148920837/ZBCaoyiw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249968775148920837/ZBCaoyiw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18185983/1545201216",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 24,
+      "favorite_count": 120,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 22 01:08:34 +0000 2020",
+    "id": 1319083191626588200,
+    "id_str": "1319083191626588160",
+    "text": "@lucyamorris Ok like im curious about the butter cumin thing but also at the same time im not sure i wanna know...",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "lucyamorris",
+          "name": "cthulhucy 🎃💚",
+          "id": 467035507,
+          "id_str": "467035507",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1319082711236055000,
+    "in_reply_to_status_id_str": "1319082711236055041",
+    "in_reply_to_user_id": 467035507,
+    "in_reply_to_user_id_str": "467035507",
+    "in_reply_to_screen_name": "lucyamorris",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "future skeleton. enby introvert. dev @Hudl. toots about code, pixel art, cooking, cats, empathy and video games. opinions here are mine. they/them",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1235,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4022,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12993,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 20 23:32:32 +0000 2020",
+    "id": 1318696633849307100,
+    "id_str": "1318696633849307138",
+    "text": "Being sick on a Tuesday is dumb. My body is dumb.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "future skeleton. enby introvert. dev @Hudl. toots about code, pixel art, cooking, cats, empathy and video games. opinions here are mine. they/them",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1235,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4022,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12993,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 19 14:57:58 +0000 2020",
+    "id": 1318204750115078100,
+    "id_str": "1318204750115078144",
+    "text": "September was a great month for me with Electric Noir. It's the first time EN has felt like it was almost a whole g… https://t.co/mbLpVx1nOQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mbLpVx1nOQ",
+          "expanded_url": "https://twitter.com/i/web/status/1318204750115078144",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "future skeleton. enby introvert. dev @Hudl. toots about code, pixel art, cooking, cats, empathy and video games. opinions here are mine. they/them",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1235,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4022,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12993,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1318204228649799700,
+    "quoted_status_id_str": "1318204228649799686",
+    "quoted_status": {
+      "created_at": "Mon Oct 19 14:55:53 +0000 2020",
+      "id": 1318204228649799700,
+      "id_str": "1318204228649799686",
+      "text": "Huge milestone: our September Sprint Review post is live, and I'm releasing the first ever sprint end demo of Elect… https://t.co/MTAihyxYJV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MTAihyxYJV",
+            "expanded_url": "https://twitter.com/i/web/status/1318204228649799686",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1149051685098180600,
+        "id_str": "1149051685098180608",
+        "name": "Electric Noir",
+        "screen_name": "electricnoir",
+        "location": "",
+        "description": "A action rpg that explores transhumanism. Set in a cyberpunk, dystopian Neo-America (NeoAm). Sign up at https://t.co/xFVpIrdXkm. By @codeimpossible",
+        "url": "https://t.co/xFVpIrdXkm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/xFVpIrdXkm",
+                "expanded_url": "http://electricnoirgame.com",
+                "display_url": "electricnoirgame.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/xFVpIrdXkm",
+                "expanded_url": "http://electricnoirgame.com",
+                "display_url": "electricnoirgame.com",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 26,
+        "listed_count": 0,
+        "created_at": "Wed Jul 10 20:24:04 +0000 2019",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149053310491607040/z00heJpC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149053310491607040/z00heJpC_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149051685098180608/1562790525",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 17 05:44:38 +0000 2020",
+    "id": 1317340725034520600,
+    "id_str": "1317340725034520577",
+    "text": "@AmyZenunim I immediately assumed you were talking about lord of the rings",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AmyZenunim",
+          "name": "★ Alice D. ★",
+          "id": 3098149396,
+          "id_str": "3098149396",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1317333774535975000,
+    "in_reply_to_status_id_str": "1317333774535974912",
+    "in_reply_to_user_id": 3098149396,
+    "in_reply_to_user_id_str": "3098149396",
+    "in_reply_to_screen_name": "AmyZenunim",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "future skeleton. enby introvert. dev @Hudl. toots about code, pixel art, cooking, cats, empathy and video games. opinions here are mine. they/them",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1235,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4022,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12993,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 17 04:46:16 +0000 2020",
+    "id": 1317326038511308800,
+    "id_str": "1317326038511308800",
+    "text": "Hey so that thing we all knew would happen is happening. https://t.co/L0izrsxdPo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/L0izrsxdPo",
+          "expanded_url": "https://twitter.com/DrEricDing/status/1317323463233855488",
+          "display_url": "twitter.com/DrEricDing/sta…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "future skeleton. enby introvert. dev @Hudl. toots about code, pixel art, cooking, cats, empathy and video games. opinions here are mine. they/them",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1235,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4022,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12993,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1317323463233855500,
+    "quoted_status_id_str": "1317323463233855488",
+    "quoted_status": {
+      "created_at": "Sat Oct 17 04:36:02 +0000 2020",
+      "id": 1317323463233855500,
+      "id_str": "1317323463233855488",
+      "text": "UPDATE: 2 Trump rally goers in Minnesota now hospitalized for #COVID19 out of 20 cases from Trump rally. 4 of 20 pe… https://t.co/z3ovUer9GU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "COVID19",
+            "indices": [
+              62,
+              70
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z3ovUer9GU",
+            "expanded_url": "https://twitter.com/i/web/status/1317323463233855488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18831926,
+        "id_str": "18831926",
+        "name": "Eric Feigl-Ding",
+        "screen_name": "DrEricDing",
+        "location": "Washington DC & Virginia",
+        "description": "Epidemiologist & Health Economist. Senior Fellow FAS. Spent 16 yrs @HarvardChanSPH. @Harvard & @JohnsHopkins alum. #COVID19 updates since Jan’20. Vote @JoeBiden",
+        "url": "https://t.co/NZWiaTMlt6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NZWiaTMlt6",
+                "expanded_url": "https://fas.org/expert/eric-feigl-ding/",
+                "display_url": "fas.org/expert/eric-fe…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 311230,
+        "friends_count": 6313,
+        "listed_count": 4260,
+        "created_at": "Sat Jan 10 11:01:33 +0000 2009",
+        "favourites_count": 116199,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 30649,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1296690786688479234/wflBN5Ks_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296690786688479234/wflBN5Ks_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18831926/1601198276",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6866,
+      "favorite_count": 12641,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
