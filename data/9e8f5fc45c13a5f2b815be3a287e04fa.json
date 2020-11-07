@@ -1,0 +1,4396 @@
+[
+  {
+    "created_at": "Fri Nov 06 18:58:59 +0000 2020",
+    "id": 1324788388025741300,
+    "id_str": "1324788388025741314",
+    "text": "Nah. https://t.co/xoZMmd3jWv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xoZMmd3jWv",
+          "expanded_url": "https://twitter.com/KathyBenjamin/status/1324737371628326912",
+          "display_url": "twitter.com/KathyBenjamin/…",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1324737371628327000,
+    "quoted_status_id_str": "1324737371628326912",
+    "quoted_status": {
+      "created_at": "Fri Nov 06 15:36:16 +0000 2020",
+      "id": 1324737371628327000,
+      "id_str": "1324737371628326912",
+      "text": "Rick Santorum on CNN literally saying \"Democrats need to give Republicans, including Trump, time and space to work… https://t.co/7X4jralvli",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7X4jralvli",
+            "expanded_url": "https://twitter.com/i/web/status/1324737371628326912",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21493886,
+        "id_str": "21493886",
+        "name": "Kathy Benjamin",
+        "screen_name": "KathyBenjamin",
+        "location": "Austin, Texas",
+        "description": "Writer/editor https://t.co/frmXqMlTQU ⁠— Repped by @VictressLit ⁠— Author: Funerals to Die For https://t.co/lTtKLyP1V2 — It’s Your Funeral @quirkbooks coming 2021",
+        "url": "https://t.co/1kcSsQEfqC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1kcSsQEfqC",
+                "expanded_url": "https://sites.google.com/view/kathybenjamin/home",
+                "display_url": "sites.google.com/view/kathybenj…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/frmXqMlTQU",
+                "expanded_url": "http://grunge.com",
+                "display_url": "grunge.com",
+                "indices": [
+                  14,
+                  37
+                ]
+              },
+              {
+                "url": "https://t.co/lTtKLyP1V2",
+                "expanded_url": "http://tinyurl.com/y438nu9o",
+                "display_url": "tinyurl.com/y438nu9o",
+                "indices": [
+                  95,
+                  118
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4273,
+        "friends_count": 335,
+        "listed_count": 87,
+        "created_at": "Sat Feb 21 15:50:24 +0000 2009",
+        "favourites_count": 12428,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11328,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314680549416501248/OSBripfp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314680549416501248/OSBripfp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21493886/1585681226",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1728,
+      "favorite_count": 17148,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Thu Nov 05 04:10:33 +0000 2020",
+    "id": 1324202415558660000,
+    "id_str": "1324202415558660098",
+    "text": "RT @runwithskizzers: Feels like we all might need this today. If you’ve voted, hit play and share! #Vote   https://t.co/t5x9Cye9LY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Vote",
+          "indices": [
+            99,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "runwithskizzers",
+          "name": "Preeti Chhibber",
+          "id": 16783988,
+          "id_str": "16783988",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1288234677908779000,
+          "id_str": "1288234677908779011",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+          "url": "https://t.co/t5x9Cye9LY",
+          "display_url": "pic.twitter.com/t5x9Cye9LY",
+          "expanded_url": "https://twitter.com/a_picazo/status/1288235077529407495/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1288235077529407500,
+          "source_status_id_str": "1288235077529407495",
+          "source_user_id": 16077204,
+          "source_user_id_str": "16077204"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1288234677908779000,
+          "id_str": "1288234677908779011",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+          "url": "https://t.co/t5x9Cye9LY",
+          "display_url": "pic.twitter.com/t5x9Cye9LY",
+          "expanded_url": "https://twitter.com/a_picazo/status/1288235077529407495/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1288235077529407500,
+          "source_status_id_str": "1288235077529407495",
+          "source_user_id": 16077204,
+          "source_user_id_str": "16077204",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 140000,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288234677908779011/pu/vid/480x270/Kd7qo9tobO4h6Drs.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1288234677908779011/pu/pl/gfriWuxQO0q7Nhja.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288234677908779011/pu/vid/640x360/p9z4qG0QX7NaKgoR.mp4?tag=10"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 16077204,
+              "id_str": "16077204",
+              "name": "Alheli Picazo",
+              "screen_name": "a_picazo",
+              "location": "Canada",
+              "description": "athlete, writer, researcher, politico",
+              "url": "http://t.co/XHoYUTOaiX",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "http://t.co/XHoYUTOaiX",
+                      "expanded_url": "http://apicazo.com/info",
+                      "display_url": "apicazo.com/info",
+                      "indices": [
+                        0,
+                        22
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 13146,
+              "friends_count": 827,
+              "listed_count": 450,
+              "created_at": "Mon Sep 01 04:10:37 +0000 2008",
+              "favourites_count": 17972,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": true,
+              "statuses_count": 218094,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "EBEBEB",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1045831731511615488/erU9_N-T_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045831731511615488/erU9_N-T_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16077204/1398392949",
+              "profile_link_color": "990000",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "F3F3F3",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 03 14:01:45 +0000 2020",
+      "id": 1323626423417000000,
+      "id_str": "1323626423416999937",
+      "text": "Feels like we all might need this today. If you’ve voted, hit play and share! #Vote   https://t.co/t5x9Cye9LY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Vote",
+            "indices": [
+              78,
+              83
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1288234677908779000,
+            "id_str": "1288234677908779011",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+            "url": "https://t.co/t5x9Cye9LY",
+            "display_url": "pic.twitter.com/t5x9Cye9LY",
+            "expanded_url": "https://twitter.com/a_picazo/status/1288235077529407495/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1288235077529407500,
+            "source_status_id_str": "1288235077529407495",
+            "source_user_id": 16077204,
+            "source_user_id_str": "16077204"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1288234677908779000,
+            "id_str": "1288234677908779011",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288234677908779011/pu/img/jzK8hfD2XnBGzfOh.jpg",
+            "url": "https://t.co/t5x9Cye9LY",
+            "display_url": "pic.twitter.com/t5x9Cye9LY",
+            "expanded_url": "https://twitter.com/a_picazo/status/1288235077529407495/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1288235077529407500,
+            "source_status_id_str": "1288235077529407495",
+            "source_user_id": 16077204,
+            "source_user_id_str": "16077204",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 140000,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1288234677908779011/pu/vid/480x270/Kd7qo9tobO4h6Drs.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1288234677908779011/pu/pl/gfriWuxQO0q7Nhja.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1288234677908779011/pu/vid/640x360/p9z4qG0QX7NaKgoR.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "id": 16077204,
+                "id_str": "16077204",
+                "name": "Alheli Picazo",
+                "screen_name": "a_picazo",
+                "location": "Canada",
+                "description": "athlete, writer, researcher, politico",
+                "url": "http://t.co/XHoYUTOaiX",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "url": "http://t.co/XHoYUTOaiX",
+                        "expanded_url": "http://apicazo.com/info",
+                        "display_url": "apicazo.com/info",
+                        "indices": [
+                          0,
+                          22
+                        ]
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "protected": false,
+                "followers_count": 13146,
+                "friends_count": 827,
+                "listed_count": 450,
+                "created_at": "Mon Sep 01 04:10:37 +0000 2008",
+                "favourites_count": 17972,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 218094,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EBEBEB",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1045831731511615488/erU9_N-T_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045831731511615488/erU9_N-T_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16077204/1398392949",
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F3F3F3",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16783988,
+        "id_str": "16783988",
+        "name": "Preeti Chhibber",
+        "screen_name": "runwithskizzers",
+        "location": "Georgia, USA",
+        "description": "Author. Editor: @SYFYFANGRRLS. @DesiGeekGirls. Opinions=own. She/Her. Writing your fav characters. Rep @MichaelBourret. An \"agent of chaos,\" says Rider Strong.",
+        "url": "https://t.co/wocPTXOF8m",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wocPTXOF8m",
+                "expanded_url": "http://www.preetichhibber.com",
+                "display_url": "preetichhibber.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 21631,
+        "friends_count": 1386,
+        "listed_count": 326,
+        "created_at": "Wed Oct 15 15:28:23 +0000 2008",
+        "favourites_count": 144221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 54964,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1277342997160615936/HElvl9a-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277342997160615936/HElvl9a-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16783988/1523368965",
+        "profile_link_color": "00BBFF",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "4F8296",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 955,
+      "favorite_count": 2710,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 955,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 02 23:38:25 +0000 2020",
+    "id": 1323409157018525700,
+    "id_str": "1323409157018525696",
+    "text": "@jenn_raye Wow my first car was 1983 version of the same car! Even the same color!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jenn_raye",
+          "name": "🐇Jennifer Raye @ Reading Higurashi When They Cry",
+          "id": 3105729211,
+          "id_str": "3105729211",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1323402870486716400,
+    "in_reply_to_status_id_str": "1323402870486716423",
+    "in_reply_to_user_id": 3105729211,
+    "in_reply_to_user_id_str": "3105729211",
+    "in_reply_to_screen_name": "jenn_raye",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 02 14:41:12 +0000 2020",
+    "id": 1323273961686339600,
+    "id_str": "1323273961686339591",
+    "text": "jesus. https://t.co/MxqWJVIdHC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MxqWJVIdHC",
+          "expanded_url": "https://twitter.com/AegisImmemorial/status/1323270573473103873",
+          "display_url": "twitter.com/AegisImmemoria…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1323270573473104000,
+    "quoted_status_id_str": "1323270573473103873",
+    "quoted_status": {
+      "created_at": "Mon Nov 02 14:27:44 +0000 2020",
+      "id": 1323270573473104000,
+      "id_str": "1323270573473103873",
+      "text": "I found the perfect meme for today. https://t.co/g8qvrB5xL7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1323270570285404200,
+            "id_str": "1323270570285404160",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/El0zkpuXEAA754S.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/El0zkpuXEAA754S.jpg",
+            "url": "https://t.co/g8qvrB5xL7",
+            "display_url": "pic.twitter.com/g8qvrB5xL7",
+            "expanded_url": "https://twitter.com/AegisImmemorial/status/1323270573473103873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 779,
+                "h": 712,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 622,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 779,
+                "h": 712,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1323270570285404200,
+            "id_str": "1323270570285404160",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/El0zkpuXEAA754S.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/El0zkpuXEAA754S.jpg",
+            "url": "https://t.co/g8qvrB5xL7",
+            "display_url": "pic.twitter.com/g8qvrB5xL7",
+            "expanded_url": "https://twitter.com/AegisImmemorial/status/1323270573473103873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 779,
+                "h": 712,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 622,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 779,
+                "h": 712,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3748832236,
+        "id_str": "3748832236",
+        "name": "S R Jones",
+        "screen_name": "AegisImmemorial",
+        "location": "South East, England",
+        "description": "Trans man, feminist, author, dino enthusiast. \nNot currently rep'd.\nHeader by @FromPawnToQueen",
+        "url": "https://t.co/WQXySbb3hb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WQXySbb3hb",
+                "expanded_url": "http://www.aegisimmemorial.com/",
+                "display_url": "aegisimmemorial.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1533,
+        "friends_count": 1513,
+        "listed_count": 18,
+        "created_at": "Wed Sep 23 11:13:29 +0000 2015",
+        "favourites_count": 153854,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28342,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1200124794328498177/uAS2G19N_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200124794328498177/uAS2G19N_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3748832236/1505159562",
+        "profile_link_color": "0F0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 39007,
+      "favorite_count": 112825,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 01 02:24:02 +0000 2020",
+    "id": 1322726061596094500,
+    "id_str": "1322726061596094467",
+    "text": "This month was a blur honestly. It's good to reflect back on it and see how much stuff I was able to get done. https://t.co/sZnAbSbXSs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sZnAbSbXSs",
+          "expanded_url": "https://twitter.com/electricnoir/status/1322725601640407040",
+          "display_url": "twitter.com/electricnoir/s…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1322725601640407000,
+    "quoted_status_id_str": "1322725601640407040",
+    "quoted_status": {
+      "created_at": "Sun Nov 01 02:22:13 +0000 2020",
+      "id": 1322725601640407000,
+      "id_str": "1322725601640407040",
+      "text": "Our October sprint has officially wrapped, which means a new sprint review post and more importantly, a new playabl… https://t.co/OSuyrGAB7q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OSuyrGAB7q",
+            "expanded_url": "https://twitter.com/i/web/status/1322725601640407040",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1149051685098180600,
+        "id_str": "1149051685098180608",
+        "name": "Electric Noir",
+        "screen_name": "electricnoir",
+        "location": "",
+        "description": "A action rpg that explores transhumanism. Set in a cyberpunk, dystopian Neo-America (NeoAm). Sign up at https://t.co/xFVpIrdXkm. By @codeimpossible",
+        "url": "https://t.co/xFVpIrdXkm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/xFVpIrdXkm",
+                "expanded_url": "http://electricnoirgame.com",
+                "display_url": "electricnoirgame.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/xFVpIrdXkm",
+                "expanded_url": "http://electricnoirgame.com",
+                "display_url": "electricnoirgame.com",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 26,
+        "listed_count": 0,
+        "created_at": "Wed Jul 10 20:24:04 +0000 2019",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149053310491607040/z00heJpC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149053310491607040/z00heJpC_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149051685098180608/1562790525",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 01 02:06:25 +0000 2020",
+    "id": 1322721627352801300,
+    "id_str": "1322721627352801282",
+    "text": "Hmmm, this doesn't seem to be the cause of the OSX build failures... looks like it's something to do with my upgrad… https://t.co/6pYQyqgD8k",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6pYQyqgD8k",
+          "expanded_url": "https://twitter.com/i/web/status/1322721627352801282",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1322675792187445200,
+    "in_reply_to_status_id_str": "1322675792187445248",
+    "in_reply_to_user_id": 1067521,
+    "in_reply_to_user_id_str": "1067521",
+    "in_reply_to_screen_name": "codeimpossible",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 01 01:47:43 +0000 2020",
+    "id": 1322716920974577700,
+    "id_str": "1322716920974577667",
+    "text": "@jhofker @_graphei Hey if we can get people on the moon yaddayaddayadda reese’s in my face",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jhofker",
+          "name": "Jordan Hofker",
+          "id": 7690452,
+          "id_str": "7690452",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "_graphei",
+          "name": "Mavreen Marra",
+          "id": 808009080,
+          "id_str": "808009080",
+          "indices": [
+            9,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1322716344551428000,
+    "in_reply_to_status_id_str": "1322716344551428096",
+    "in_reply_to_user_id": 7690452,
+    "in_reply_to_user_id_str": "7690452",
+    "in_reply_to_screen_name": "jhofker",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 01 01:03:26 +0000 2020",
+    "id": 1322705776608202800,
+    "id_str": "1322705776608202753",
+    "text": "@jhofker Hi i would like a choco-ramp installed into my home",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jhofker",
+          "name": "Jordan Hofker",
+          "id": 7690452,
+          "id_str": "7690452",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1322703724159115300,
+    "in_reply_to_status_id_str": "1322703724159115264",
+    "in_reply_to_user_id": 7690452,
+    "in_reply_to_user_id_str": "7690452",
+    "in_reply_to_screen_name": "jhofker",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 01 00:56:34 +0000 2020",
+    "id": 1322704049536438300,
+    "id_str": "1322704049536438274",
+    "text": "RT @Freeyourmindkid: LMAO AGAIN?!?!?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Freeyourmindkid",
+          "name": "🇯🇲Black🇭🇹 Aziz 🇳🇬aNANsi🇹🇹",
+          "id": 120995738,
+          "id_str": "120995738",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 01 00:39:48 +0000 2020",
+      "id": 1322699830372782000,
+      "id_str": "1322699830372782080",
+      "text": "LMAO AGAIN?!?!? https://t.co/Nf4udv51vn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Nf4udv51vn",
+            "expanded_url": "https://twitter.com/DJJudd/status/1322688676170735616",
+            "display_url": "twitter.com/DJJudd/status/…",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 120995738,
+        "id_str": "120995738",
+        "name": "🇯🇲Black🇭🇹 Aziz 🇳🇬aNANsi🇹🇹",
+        "screen_name": "Freeyourmindkid",
+        "location": "Tsar-A-Lago",
+        "description": "I will be laughing all the way to Trump's secret prison.\n\nCreator of https://t.co/1FoGTgGl3j",
+        "url": "https://t.co/ymiICCVGO0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ymiICCVGO0",
+                "expanded_url": "http://www.areyousorryyet.com",
+                "display_url": "areyousorryyet.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/1FoGTgGl3j",
+                "expanded_url": "http://AreYouSorryYet.com",
+                "display_url": "AreYouSorryYet.com",
+                "indices": [
+                  69,
+                  92
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 94429,
+        "friends_count": 29387,
+        "listed_count": 510,
+        "created_at": "Mon Mar 08 05:55:45 +0000 2010",
+        "favourites_count": 101779,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 191730,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145073618252177408/3JOgCkeQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145073618252177408/3JOgCkeQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120995738/1485035278",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1322688676170735600,
+      "quoted_status_id_str": "1322688676170735616",
+      "quoted_status": {
+        "created_at": "Sat Oct 31 23:55:29 +0000 2020",
+        "id": 1322688676170735600,
+        "id_str": "1322688676170735616",
+        "text": "Trump has finished and left, but there’s thousands of supporters who have been let loose into the night with no sig… https://t.co/REG4O6AKRB",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/REG4O6AKRB",
+              "expanded_url": "https://twitter.com/i/web/status/1322688676170735616",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1322678689650409500,
+        "in_reply_to_status_id_str": "1322678689650409472",
+        "in_reply_to_user_id": 251983774,
+        "in_reply_to_user_id_str": "251983774",
+        "in_reply_to_screen_name": "DJJudd",
+        "user": {
+          "id": 251983774,
+          "id_str": "251983774",
+          "name": "DJ Judd",
+          "screen_name": "DJJudd",
+          "location": "Washington, DC",
+          "description": "@CNNPolitics on Trump 2020 | I covered Buttigieg & IA | former @Princeton & @CBSPolitics | New Yorker by birth & stride | dj.judd@cnn.com | Instagram: dmjudd4",
+          "url": "https://t.co/GXDkjJAwXZ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/GXDkjJAwXZ",
+                  "expanded_url": "https://www.cnn.com/profiles/donald-judd",
+                  "display_url": "cnn.com/profiles/donal…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 24890,
+          "friends_count": 2929,
+          "listed_count": 491,
+          "created_at": "Mon Feb 14 07:08:45 +0000 2011",
+          "favourites_count": 15464,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 28446,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1319806776368386048/M1FoteJU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319806776368386048/M1FoteJU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/251983774/1601203287",
+          "profile_link_color": "91D2FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10662,
+        "favorite_count": 29533,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 123,
+      "favorite_count": 671,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1322688676170735600,
+    "quoted_status_id_str": "1322688676170735616",
+    "retweet_count": 123,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 01 00:43:33 +0000 2020",
+    "id": 1322700774242164700,
+    "id_str": "1322700774242164736",
+    "text": "RT @Faggriculture: why going to a Halloween party and dining inside is a bad idea: https://t.co/kuxCcI2lw6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Faggriculture",
+          "name": "tres leches cake lover",
+          "id": 805983414218170400,
+          "id_str": "805983414218170369",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1322290421276422100,
+          "id_str": "1322290421276422144",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+          "url": "https://t.co/kuxCcI2lw6",
+          "display_url": "pic.twitter.com/kuxCcI2lw6",
+          "expanded_url": "https://twitter.com/Faggriculture/status/1322290424724164608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1322290424724164600,
+          "source_status_id_str": "1322290424724164608",
+          "source_user_id": 805983414218170400,
+          "source_user_id_str": "805983414218170369"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1322290421276422100,
+          "id_str": "1322290421276422144",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+          "url": "https://t.co/kuxCcI2lw6",
+          "display_url": "pic.twitter.com/kuxCcI2lw6",
+          "expanded_url": "https://twitter.com/Faggriculture/status/1322290424724164608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1322290424724164600,
+          "source_status_id_str": "1322290424724164608",
+          "source_user_id": 805983414218170400,
+          "source_user_id_str": "805983414218170369"
+        },
+        {
+          "id": 1322290421280641000,
+          "id_str": "1322290421280641024",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/Elm4IeJVkAADi4-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Elm4IeJVkAADi4-.jpg",
+          "url": "https://t.co/kuxCcI2lw6",
+          "display_url": "pic.twitter.com/kuxCcI2lw6",
+          "expanded_url": "https://twitter.com/Faggriculture/status/1322290424724164608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1322290424724164600,
+          "source_status_id_str": "1322290424724164608",
+          "source_user_id": 805983414218170400,
+          "source_user_id_str": "805983414218170369"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 30 21:32:58 +0000 2020",
+      "id": 1322290424724164600,
+      "id_str": "1322290424724164608",
+      "text": "why going to a Halloween party and dining inside is a bad idea: https://t.co/kuxCcI2lw6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1322290421276422100,
+            "id_str": "1322290421276422144",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+            "url": "https://t.co/kuxCcI2lw6",
+            "display_url": "pic.twitter.com/kuxCcI2lw6",
+            "expanded_url": "https://twitter.com/Faggriculture/status/1322290424724164608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1322290421276422100,
+            "id_str": "1322290421276422144",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Elm4IeIVMAAEnn7.jpg",
+            "url": "https://t.co/kuxCcI2lw6",
+            "display_url": "pic.twitter.com/kuxCcI2lw6",
+            "expanded_url": "https://twitter.com/Faggriculture/status/1322290424724164608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1322290421280641000,
+            "id_str": "1322290421280641024",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/Elm4IeJVkAADi4-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Elm4IeJVkAADi4-.jpg",
+            "url": "https://t.co/kuxCcI2lw6",
+            "display_url": "pic.twitter.com/kuxCcI2lw6",
+            "expanded_url": "https://twitter.com/Faggriculture/status/1322290424724164608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 805983414218170400,
+        "id_str": "805983414218170369",
+        "name": "tres leches cake lover",
+        "screen_name": "Faggriculture",
+        "location": "",
+        "description": "🏳️‍🌈 Enby Lesbian 26, They/She, Elle/Ella. I like plants and food",
+        "url": "https://t.co/MIoSU6qBDf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MIoSU6qBDf",
+                "expanded_url": "https://linktr.ee/acab",
+                "display_url": "linktr.ee/acab",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2455,
+        "friends_count": 1508,
+        "listed_count": 2,
+        "created_at": "Tue Dec 06 03:53:15 +0000 2016",
+        "favourites_count": 55866,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28597,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314535984617279488/llVAEtw1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314535984617279488/llVAEtw1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/805983414218170369/1602244777",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3289,
+      "favorite_count": 8331,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3289,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 23:55:58 +0000 2020",
+    "id": 1322688798053048300,
+    "id_str": "1322688798053048321",
+    "text": "😆this is an underrated tweet https://t.co/1umTTaNscr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1umTTaNscr",
+          "expanded_url": "https://twitter.com/JustSomeBryan/status/1322670097312305154",
+          "display_url": "twitter.com/JustSomeBryan/…",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1322670097312305200,
+    "quoted_status_id_str": "1322670097312305154",
+    "quoted_status": {
+      "created_at": "Sat Oct 31 22:41:39 +0000 2020",
+      "id": 1322670097312305200,
+      "id_str": "1322670097312305154",
+      "text": "@BettyBowers @OliviaRaisner @RonaldKlain @realDonaldTrump The most athletic thing @realDonaldTrump  has ever done is dodge the draft.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BettyBowers",
+            "name": "Mrs. Betty Bowers",
+            "id": 46775436,
+            "id_str": "46775436",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "OliviaRaisner",
+            "name": "Olivia Raisner",
+            "id": 3314988165,
+            "id_str": "3314988165",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "RonaldKlain",
+            "name": "Ronald Klain",
+            "id": 248884036,
+            "id_str": "248884036",
+            "indices": [
+              28,
+              40
+            ]
+          },
+          {
+            "screen_name": "realDonaldTrump",
+            "name": "Donald J. Trump",
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              41,
+              57
+            ]
+          },
+          {
+            "screen_name": "realDonaldTrump",
+            "name": "Donald J. Trump",
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              82,
+              98
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1322667642075943000,
+      "in_reply_to_status_id_str": "1322667642075942912",
+      "in_reply_to_user_id": 46775436,
+      "in_reply_to_user_id_str": "46775436",
+      "in_reply_to_screen_name": "BettyBowers",
+      "user": {
+        "id": 941563256019316700,
+        "id_str": "941563256019316736",
+        "name": "Bryan: Voted against Trump's racist ass",
+        "screen_name": "JustSomeBryan",
+        "location": "Lost in thought",
+        "description": "Just some random dude using Twitter to scream into the void.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 21,
+        "friends_count": 584,
+        "listed_count": 0,
+        "created_at": "Fri Dec 15 06:59:08 +0000 2017",
+        "favourites_count": 3420,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2505,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1324113863004971008/X8NUV9AV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324113863004971008/X8NUV9AV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/941563256019316736/1568702813",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 133,
+      "favorite_count": 2236,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 23:54:30 +0000 2020",
+    "id": 1322688427612098600,
+    "id_str": "1322688427612098567",
+    "text": "🏀🤽🏾what a legend https://t.co/E0yUHu73xC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/E0yUHu73xC",
+          "expanded_url": "https://twitter.com/OliviaRaisner/status/1322664700052705283",
+          "display_url": "twitter.com/OliviaRaisner/…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1322664700052705300,
+    "quoted_status_id_str": "1322664700052705283",
+    "quoted_status": {
+      "created_at": "Sat Oct 31 22:20:13 +0000 2020",
+      "id": 1322664700052705300,
+      "id_str": "1322664700052705283",
+      "text": "so this was absolutely insane https://t.co/W4JL6LQZxq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1322664548374093800,
+            "id_str": "1322664548374093827",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322664548374093827/pu/img/UnkJJWL9WuBNMvo4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322664548374093827/pu/img/UnkJJWL9WuBNMvo4.jpg",
+            "url": "https://t.co/W4JL6LQZxq",
+            "display_url": "pic.twitter.com/W4JL6LQZxq",
+            "expanded_url": "https://twitter.com/OliviaRaisner/status/1322664700052705283/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1322664548374093800,
+            "id_str": "1322664548374093827",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322664548374093827/pu/img/UnkJJWL9WuBNMvo4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322664548374093827/pu/img/UnkJJWL9WuBNMvo4.jpg",
+            "url": "https://t.co/W4JL6LQZxq",
+            "display_url": "pic.twitter.com/W4JL6LQZxq",
+            "expanded_url": "https://twitter.com/OliviaRaisner/status/1322664700052705283/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 15722,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1322664548374093827/pu/vid/320x568/6KgdHxrFF_cEbHyu.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1322664548374093827/pu/vid/720x1280/hLY69XiOfOCTxGLi.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1322664548374093827/pu/vid/360x640/v3q_m3CQPIaWd6kN.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1322664548374093827/pu/pl/4mrm_1GYAOVDWCVj.m3u8?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3314988165,
+        "id_str": "3314988165",
+        "name": "Olivia Raisner",
+        "screen_name": "OliviaRaisner",
+        "location": "",
+        "description": "Traveling Digital Director✈️ @JoeBiden | 🏳️‍🌈",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7813,
+        "friends_count": 709,
+        "listed_count": 96,
+        "created_at": "Tue Jun 09 14:05:25 +0000 2015",
+        "favourites_count": 4322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 893,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248798239857541122/Tnhn__43_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248798239857541122/Tnhn__43_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3314988165/1550842790",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 52455,
+      "favorite_count": 285873,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 23:14:30 +0000 2020",
+    "id": 1322678363690012700,
+    "id_str": "1322678363690012672",
+    "text": "I can't believe there are still Robert Chody ads playing here. He's indicted on evidence tampering. Like... wtf?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 23:04:17 +0000 2020",
+    "id": 1322675792187445200,
+    "id_str": "1322675792187445248",
+    "text": "Turned out I had a compilation error hidden in a preprocessor section that only applied during the CI build. https://t.co/7J9JFNktvm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1322675782238511000,
+          "id_str": "1322675782238511106",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ElsWnblWoAI8cA3.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ElsWnblWoAI8cA3.jpg",
+          "url": "https://t.co/7J9JFNktvm",
+          "display_url": "pic.twitter.com/7J9JFNktvm",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1322675792187445248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 498,
+              "h": 274,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 498,
+              "h": 274,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 498,
+              "h": 274,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1322675782238511000,
+          "id_str": "1322675782238511106",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ElsWnblWoAI8cA3.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ElsWnblWoAI8cA3.jpg",
+          "url": "https://t.co/7J9JFNktvm",
+          "display_url": "pic.twitter.com/7J9JFNktvm",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1322675792187445248/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 498,
+              "h": 274,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 498,
+              "h": 274,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 498,
+              "h": 274,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              249,
+              137
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/ElsWnblWoAI8cA3.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1322670675191079000,
+    "in_reply_to_status_id_str": "1322670675191078916",
+    "in_reply_to_user_id": 1067521,
+    "in_reply_to_user_id_str": "1067521",
+    "in_reply_to_screen_name": "codeimpossible",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 22:43:57 +0000 2020",
+    "id": 1322670675191079000,
+    "id_str": "1322670675191078916",
+    "text": ":S The last cloud build of electric noir was building for 2 hours... this can't be good.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 20:55:42 +0000 2020",
+    "id": 1322643433887092700,
+    "id_str": "1322643433887092736",
+    "text": "RT @mcmillen: cool, cool, just the cops gassing a pro-voting rally that was properly permitted and everything",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mcmillen",
+          "name": "Colin McMillen, Ph.D.",
+          "id": 14244141,
+          "id_str": "14244141",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 31 20:32:06 +0000 2020",
+      "id": 1322637493439733800,
+      "id_str": "1322637493439733760",
+      "text": "cool, cool, just the cops gassing a pro-voting rally that was properly permitted and everything https://t.co/nxU158e1AW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nxU158e1AW",
+            "expanded_url": "https://twitter.com/greg_doucette/status/1322620451680587777",
+            "display_url": "twitter.com/greg_doucette/…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14244141,
+        "id_str": "14244141",
+        "name": "Colin McMillen, Ph.D.",
+        "screen_name": "mcmillen",
+        "location": "Somerville, MA",
+        "description": "Lead developer at @SemiColinGames. He/him. SW-1906-3662-4308\n\nPreviously: Google, reCAPTCHA, Carnegie Mellon (Ph.D., Computer Science)",
+        "url": "https://t.co/aWGmFDefD8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/aWGmFDefD8",
+                "expanded_url": "https://famicol.in",
+                "display_url": "famicol.in",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4954,
+        "friends_count": 616,
+        "listed_count": 79,
+        "created_at": "Fri Mar 28 14:51:28 +0000 2008",
+        "favourites_count": 121707,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 43309,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1270002175729700864/H--NUuAG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270002175729700864/H--NUuAG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14244141/1575388367",
+        "profile_link_color": "008C5C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1322620451680587800,
+      "quoted_status_id_str": "1322620451680587777",
+      "quoted_status": {
+        "created_at": "Sat Oct 31 19:24:23 +0000 2020",
+        "id": 1322620451680587800,
+        "id_str": "1322620451680587777",
+        "text": "9️⃣8️⃣0️⃣ Graham, NC: GPD cops casually pepper-spraying indiscriminately to disrupt a Souls to the Polls rally lead… https://t.co/j0cKgq6s5J",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/j0cKgq6s5J",
+              "expanded_url": "https://twitter.com/i/web/status/1322620451680587777",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1322592911914139600,
+        "in_reply_to_status_id_str": "1322592911914139650",
+        "in_reply_to_user_id": 132029493,
+        "in_reply_to_user_id_str": "132029493",
+        "in_reply_to_screen_name": "greg_doucette",
+        "user": {
+          "id": 132029493,
+          "id_str": "132029493",
+          "name": "T. Greg \"Biden 306\" Doucette",
+          "screen_name": "greg_doucette",
+          "location": "Durham NC",
+          "description": "Ex-computer scientist, now criminal defense & 1A attorney in NC+TX. Host of @fsckemall. Dog lover. #NeverTrump conservative. Proud alum of @NCCU and @NCState.",
+          "url": "https://t.co/nc8GENsvvJ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/nc8GENsvvJ",
+                  "expanded_url": "https://patreon.com/fsck",
+                  "display_url": "patreon.com/fsck",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 130316,
+          "friends_count": 998,
+          "listed_count": 1089,
+          "created_at": "Mon Apr 12 02:41:44 +0000 2010",
+          "favourites_count": 140225,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 198886,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "9A0033",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1273443817425903616/3PATsxSh_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273443817425903616/3PATsxSh_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/132029493/1604681280",
+          "profile_link_color": "990000",
+          "profile_sidebar_border_color": "DFDFDF",
+          "profile_sidebar_fill_color": "F3F3F3",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "3b98b02fba3f9753",
+          "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json",
+          "place_type": "admin",
+          "name": "North Carolina",
+          "full_name": "North Carolina, USA",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -84.3219475,
+                  33.752879
+                ],
+                [
+                  -75.40012,
+                  33.752879
+                ],
+                [
+                  -75.40012,
+                  36.588118
+                ],
+                [
+                  -84.3219475,
+                  36.588118
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1322606355077910500,
+        "quoted_status_id_str": "1322606355077910533",
+        "retweet_count": 270,
+        "favorite_count": 317,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 86,
+      "favorite_count": 110,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1322620451680587800,
+    "quoted_status_id_str": "1322620451680587777",
+    "retweet_count": 86,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 20:10:21 +0000 2020",
+    "id": 1322632018476281900,
+    "id_str": "1322632018476281857",
+    "text": "O_O this is really really great. I've been wanting a tool like this for a long time. https://t.co/74d6w92lA6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/74d6w92lA6",
+          "expanded_url": "https://twitter.com/grogdev/status/1317128954768228352",
+          "display_url": "twitter.com/grogdev/status…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1317128954768228400,
+    "quoted_status_id_str": "1317128954768228352",
+    "quoted_status": {
+      "created_at": "Fri Oct 16 15:43:08 +0000 2020",
+      "id": 1317128954768228400,
+      "id_str": "1317128954768228352",
+      "text": "Biggg SpriteDrop update out now! Drag, drop &amp; play your spritesheets~  https://t.co/JspMZnP8XX (demo available)\n\nHi… https://t.co/62RnkJDr6p",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JspMZnP8XX",
+            "expanded_url": "https://grogdev.itch.io/spritedrop/",
+            "display_url": "grogdev.itch.io/spritedrop/",
+            "indices": [
+              75,
+              98
+            ]
+          },
+          {
+            "url": "https://t.co/62RnkJDr6p",
+            "expanded_url": "https://twitter.com/i/web/status/1317128954768228352",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 44537950,
+        "id_str": "44537950",
+        "name": "Grog",
+        "screen_name": "grogdev",
+        "location": "Ontario, Canada",
+        "description": "Game Dev. Pixel Artist & Streamer, developer of #BrewBreakerAgnes & #SpriteDrop!  Join us on Discord! https://t.co/dMMisk5wmZ\nhttps://t.co/LU942d1hN3",
+        "url": "https://t.co/nyR9wWCFEk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/nyR9wWCFEk",
+                "expanded_url": "http://grogdev.com",
+                "display_url": "grogdev.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dMMisk5wmZ",
+                "expanded_url": "http://discord.gg/hfQafXM",
+                "display_url": "discord.gg/hfQafXM",
+                "indices": [
+                  102,
+                  125
+                ]
+              },
+              {
+                "url": "https://t.co/LU942d1hN3",
+                "expanded_url": "http://twitch.tv/grogdev",
+                "display_url": "twitch.tv/grogdev",
+                "indices": [
+                  126,
+                  149
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2453,
+        "friends_count": 1262,
+        "listed_count": 41,
+        "created_at": "Thu Jun 04 03:43:41 +0000 2009",
+        "favourites_count": 9692,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5607,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102602529525903360/xXTevRCh_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102602529525903360/xXTevRCh_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44537950/1526856404",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 119,
+      "favorite_count": 371,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 18:49:57 +0000 2020",
+    "id": 1322611787427139600,
+    "id_str": "1322611787427139585",
+    "text": "Hi, ive been thinking this for a long time... its beyond time for a black batman, a black bond, etc but its also co… https://t.co/HYry1R0vOk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HYry1R0vOk",
+          "expanded_url": "https://twitter.com/i/web/status/1322611787427139585",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 18:39:48 +0000 2020",
+    "id": 1322609232403988500,
+    "id_str": "1322609232403988488",
+    "text": "Holy shit. https://t.co/pqZ11iabaM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pqZ11iabaM",
+          "expanded_url": "https://twitter.com/ericcervini/status/1322546782572859395",
+          "display_url": "twitter.com/ericcervini/st…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1322546782572859400,
+    "quoted_status_id_str": "1322546782572859395",
+    "quoted_status": {
+      "created_at": "Sat Oct 31 14:31:39 +0000 2020",
+      "id": 1322546782572859400,
+      "id_str": "1322546782572859395",
+      "text": "These tactics have no place in Texas, my home state, and no place in America.\n\nPlease vote. Please volunteer this w… https://t.co/gLU9LqHOzo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gLU9LqHOzo",
+            "expanded_url": "https://twitter.com/i/web/status/1322546782572859395",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15182696,
+        "id_str": "15182696",
+        "name": "Dr. Eric Cervini",
+        "screen_name": "ericcervini",
+        "location": "",
+        "description": "he/him | author, historian, homo | Instant NYT bestselling author of THE DEVIANT'S WAR: The Homosexual vs. the United States of America",
+        "url": "https://t.co/AN4lECmiT5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/AN4lECmiT5",
+                "expanded_url": "https://instagram.com/ericcervini",
+                "display_url": "instagram.com/ericcervini",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 12654,
+        "friends_count": 1289,
+        "listed_count": 114,
+        "created_at": "Fri Jun 20 18:24:13 +0000 2008",
+        "favourites_count": 900,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 515,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278773178592923648/Nv5Qu_2y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278773178592923648/Nv5Qu_2y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15182696/1604164826",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14241,
+      "favorite_count": 41304,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 31 15:29:23 +0000 2020",
+    "id": 1322561312354898000,
+    "id_str": "1322561312354897922",
+    "text": "You: “im thinking of moving to texas”\n\nMe, someone who thought the same thing, moved here and sees these people eve… https://t.co/4rF4tOeyO7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4rF4tOeyO7",
+          "expanded_url": "https://twitter.com/i/web/status/1322561312354897922",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 1241,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4028,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13030,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1322405706813870000,
+    "quoted_status_id_str": "1322405706813870080",
+    "quoted_status": {
+      "created_at": "Sat Oct 31 05:11:04 +0000 2020",
+      "id": 1322405706813870000,
+      "id_str": "1322405706813870080",
+      "text": "Texas: attempt to run the Biden/Harris bus tour off the road. https://t.co/gCySFPFyKb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gCySFPFyKb",
+            "expanded_url": "https://twitter.com/ericcervini/status/1322336226792321025",
+            "display_url": "twitter.com/ericcervini/st…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 130617778,
+        "id_str": "130617778",
+        "name": "Keith Olbermann",
+        "screen_name": "KeithOlbermann",
+        "location": "",
+        "description": "Mitt Romney thinks I’m President or something. “Olbermann vs Trump” on YouTube weekdays 5 PM ET. Please subscribe. Not with SportsCenter or Countdown just now.",
+        "url": "https://t.co/I3KBzH60Uq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/I3KBzH60Uq",
+                "expanded_url": "https://www.youtube.com/c/worstperson",
+                "display_url": "youtube.com/c/worstperson",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 994049,
+        "friends_count": 976,
+        "listed_count": 17821,
+        "created_at": "Wed Apr 07 20:43:27 +0000 2010",
+        "favourites_count": 109,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 118924,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297795264636485632/1KCK-Zax_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297795264636485632/1KCK-Zax_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130617778/1604435838",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1322336226792321000,
+      "quoted_status_id_str": "1322336226792321025",
+      "retweet_count": 331,
+      "favorite_count": 733,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
