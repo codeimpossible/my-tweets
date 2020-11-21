@@ -1,0 +1,3601 @@
+[
+  {
+    "created_at": "Thu Nov 19 18:48:55 +0000 2020",
+    "id": 1329496893987152000,
+    "id_str": "1329496893987151874",
+    "text": "had my first ever MRI today. Almost fell asleep in the machine, so I guess it went ok?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 19 05:42:16 +0000 2020",
+    "id": 1329298929687670800,
+    "id_str": "1329298929687670784",
+    "text": "This show is WILD https://t.co/4wkGN992Zv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1329298924981645300,
+          "id_str": "1329298924981645315",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnKeVE_W8AMgQuT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnKeVE_W8AMgQuT.jpg",
+          "url": "https://t.co/4wkGN992Zv",
+          "display_url": "pic.twitter.com/4wkGN992Zv",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1329298929687670784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1329298924981645300,
+          "id_str": "1329298924981645315",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnKeVE_W8AMgQuT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnKeVE_W8AMgQuT.jpg",
+          "url": "https://t.co/4wkGN992Zv",
+          "display_url": "pic.twitter.com/4wkGN992Zv",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1329298929687670784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 17 22:29:29 +0000 2020",
+    "id": 1328827625595396000,
+    "id_str": "1328827625595396098",
+    "text": "So now ive got to update my tweet backup script to somehow pull... “fleets?” Ugh https://t.co/LarMGV1V6Y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1328827619534663700,
+          "id_str": "1328827619534663681",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EnDxrfYXcAEfmHr.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnDxrfYXcAEfmHr.jpg",
+          "url": "https://t.co/LarMGV1V6Y",
+          "display_url": "pic.twitter.com/LarMGV1V6Y",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1328827625595396098/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 180,
+              "h": 202,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 180,
+              "h": 202,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 180,
+              "h": 202,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1328827619534663700,
+          "id_str": "1328827619534663681",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EnDxrfYXcAEfmHr.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnDxrfYXcAEfmHr.jpg",
+          "url": "https://t.co/LarMGV1V6Y",
+          "display_url": "pic.twitter.com/LarMGV1V6Y",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1328827625595396098/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 180,
+              "h": 202,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 180,
+              "h": 202,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 180,
+              "h": 202,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              90,
+              101
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EnDxrfYXcAEfmHr.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 17 03:09:21 +0000 2020",
+    "id": 1328535672337129500,
+    "id_str": "1328535672337129473",
+    "text": "Jesus christ i feel this in my teeth. https://t.co/XPt0Dyi8G6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XPt0Dyi8G6",
+          "expanded_url": "https://twitter.com/hoodgothic/status/1328417235866693633",
+          "display_url": "twitter.com/hoodgothic/sta…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1328417235866693600,
+    "quoted_status_id_str": "1328417235866693633",
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 15 19:53:56 +0000 2020",
+    "id": 1328063704982761500,
+    "id_str": "1328063704982761473",
+    "text": "RT @AffinityPlay: Red Skies animated. 🎞️\n\n#pixelart #ドット絵 #animation https://t.co/NfcBqtKLgl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "pixelart",
+          "indices": [
+            42,
+            51
+          ]
+        },
+        {
+          "text": "ドット絵",
+          "indices": [
+            52,
+            57
+          ]
+        },
+        {
+          "text": "animation",
+          "indices": [
+            58,
+            68
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AffinityPlay",
+          "name": "Gordon Zuchhold",
+          "id": 500345045,
+          "id_str": "500345045",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1328062595375505400,
+          "id_str": "1328062595375505408",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+          "url": "https://t.co/NfcBqtKLgl",
+          "display_url": "pic.twitter.com/NfcBqtKLgl",
+          "expanded_url": "https://twitter.com/AffinityPlay/status/1328062725621227520/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1328062725621227500,
+          "source_status_id_str": "1328062725621227520",
+          "source_user_id": 500345045,
+          "source_user_id_str": "500345045"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1328062595375505400,
+          "id_str": "1328062595375505408",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+          "url": "https://t.co/NfcBqtKLgl",
+          "display_url": "pic.twitter.com/NfcBqtKLgl",
+          "expanded_url": "https://twitter.com/AffinityPlay/status/1328062725621227520/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1328062725621227500,
+          "source_status_id_str": "1328062725621227520",
+          "source_user_id": 500345045,
+          "source_user_id_str": "500345045",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Em455OTXIAADTmV.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 15 19:50:02 +0000 2020",
+      "id": 1328062725621227500,
+      "id_str": "1328062725621227520",
+      "text": "Red Skies animated. 🎞️\n\n#pixelart #ドット絵 #animation https://t.co/NfcBqtKLgl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pixelart",
+            "indices": [
+              24,
+              33
+            ]
+          },
+          {
+            "text": "ドット絵",
+            "indices": [
+              34,
+              39
+            ]
+          },
+          {
+            "text": "animation",
+            "indices": [
+              40,
+              50
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1328062595375505400,
+            "id_str": "1328062595375505408",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+            "url": "https://t.co/NfcBqtKLgl",
+            "display_url": "pic.twitter.com/NfcBqtKLgl",
+            "expanded_url": "https://twitter.com/AffinityPlay/status/1328062725621227520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1328062595375505400,
+            "id_str": "1328062595375505408",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em455OTXIAADTmV.jpg",
+            "url": "https://t.co/NfcBqtKLgl",
+            "display_url": "pic.twitter.com/NfcBqtKLgl",
+            "expanded_url": "https://twitter.com/AffinityPlay/status/1328062725621227520/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/Em455OTXIAADTmV.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 500345045,
+        "id_str": "500345045",
+        "name": "Gordon Zuchhold",
+        "screen_name": "AffinityPlay",
+        "location": "",
+        "description": "Pixel/Voxel Artist - Working on MAX GREENE a Sci-fi Adventure Game.\nShop: https://t.co/JJ8yLwF51Y",
+        "url": "https://t.co/JJ8yLwF51Y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JJ8yLwF51Y",
+                "expanded_url": "http://SDMono.redbubble.com",
+                "display_url": "SDMono.redbubble.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/JJ8yLwF51Y",
+                "expanded_url": "http://SDMono.redbubble.com",
+                "display_url": "SDMono.redbubble.com",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6325,
+        "friends_count": 2731,
+        "listed_count": 176,
+        "created_at": "Thu Feb 23 01:47:20 +0000 2012",
+        "favourites_count": 22040,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7331,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278481637060358146/iH3v2Otk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278481637060358146/iH3v2Otk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/500345045/1605148774",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 142,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 15 19:50:22 +0000 2020",
+    "id": 1328062808286769200,
+    "id_str": "1328062808286769153",
+    "text": "RT @MarkoPalany: Temple of kievan rus #pixelart https://t.co/YWIiGIc45p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "pixelart",
+          "indices": [
+            38,
+            47
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MarkoPalany",
+          "name": "Marko",
+          "id": 1321528944022225000,
+          "id_str": "1321528944022224898",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1326568247668449300,
+          "id_str": "1326568247668449280",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+          "url": "https://t.co/YWIiGIc45p",
+          "display_url": "pic.twitter.com/YWIiGIc45p",
+          "expanded_url": "https://twitter.com/MarkoPalany/status/1326568252357677056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 512,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 735,
+              "h": 976,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 735,
+              "h": 976,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1326568252357677000,
+          "source_status_id_str": "1326568252357677056",
+          "source_user_id": 1321528944022225000,
+          "source_user_id_str": "1321528944022224898"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1326568247668449300,
+          "id_str": "1326568247668449280",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+          "url": "https://t.co/YWIiGIc45p",
+          "display_url": "pic.twitter.com/YWIiGIc45p",
+          "expanded_url": "https://twitter.com/MarkoPalany/status/1326568252357677056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 512,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 735,
+              "h": 976,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 735,
+              "h": 976,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1326568252357677000,
+          "source_status_id_str": "1326568252357677056",
+          "source_user_id": 1321528944022225000,
+          "source_user_id_str": "1321528944022224898"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 11 16:51:32 +0000 2020",
+      "id": 1326568252357677000,
+      "id_str": "1326568252357677056",
+      "text": "Temple of kievan rus #pixelart https://t.co/YWIiGIc45p",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pixelart",
+            "indices": [
+              21,
+              30
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326568247668449300,
+            "id_str": "1326568247668449280",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+            "url": "https://t.co/YWIiGIc45p",
+            "display_url": "pic.twitter.com/YWIiGIc45p",
+            "expanded_url": "https://twitter.com/MarkoPalany/status/1326568252357677056/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 512,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 735,
+                "h": 976,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 735,
+                "h": 976,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326568247668449300,
+            "id_str": "1326568247668449280",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmjqyvSXIAATyZ1.jpg",
+            "url": "https://t.co/YWIiGIc45p",
+            "display_url": "pic.twitter.com/YWIiGIc45p",
+            "expanded_url": "https://twitter.com/MarkoPalany/status/1326568252357677056/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 512,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 735,
+                "h": 976,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 735,
+                "h": 976,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1321528944022225000,
+        "id_str": "1321528944022224898",
+        "name": "Marko",
+        "screen_name": "MarkoPalany",
+        "location": "España ",
+        "description": "fam pixel art follow me",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 97,
+        "friends_count": 0,
+        "listed_count": 2,
+        "created_at": "Wed Oct 28 19:07:20 +0000 2020",
+        "favourites_count": 36,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 125,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1325493037385003009/afQi-DEP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325493037385003009/afQi-DEP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321528944022224898/1604857106",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 15 18:02:41 +0000 2020",
+    "id": 1328035710922797000,
+    "id_str": "1328035710922797056",
+    "text": "RT @TianiPixel: UNSIGHTED is a game with a time limit, and we know it might be a turn off to some players.\n\nWith this in mind, we're adding…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TianiPixel",
+          "name": "Tiani Pixel",
+          "id": 944015813538975700,
+          "id_str": "944015813538975744",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 15 07:00:18 +0000 2020",
+      "id": 1327869015574909000,
+      "id_str": "1327869015574908930",
+      "text": "UNSIGHTED is a game with a time limit, and we know it might be a turn off to some players.\n\nWith this in mind, we'r… https://t.co/8zxynwkLFd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8zxynwkLFd",
+            "expanded_url": "https://twitter.com/i/web/status/1327869015574908930",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 944015813538975700,
+        "id_str": "944015813538975744",
+        "name": "Tiani Pixel",
+        "screen_name": "TianiPixel",
+        "location": "Brasil",
+        "description": "Cutest gamedev you know 🏳️‍⚧️🏳️‍🌈 | She/her | Check out my work at @StudioPixelPunk",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13879,
+        "friends_count": 930,
+        "listed_count": 213,
+        "created_at": "Fri Dec 22 01:24:43 +0000 2017",
+        "favourites_count": 37214,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4493,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1125977027369164801/PP4tCOuT_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125977027369164801/PP4tCOuT_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944015813538975744/1589637449",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 46,
+      "favorite_count": 306,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 46,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 15 17:55:33 +0000 2020",
+    "id": 1328033912543711200,
+    "id_str": "1328033912543711233",
+    "text": "RT @AffinityPlay: Red Skies\n\n#pixelart #ドット絵 #SaturdayVibes https://t.co/meppGXvdNY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "pixelart",
+          "indices": [
+            29,
+            38
+          ]
+        },
+        {
+          "text": "ドット絵",
+          "indices": [
+            39,
+            44
+          ]
+        },
+        {
+          "text": "SaturdayVibes",
+          "indices": [
+            45,
+            59
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AffinityPlay",
+          "name": "Gordon Zuchhold",
+          "id": 500345045,
+          "id_str": "500345045",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1327834697272070100,
+          "id_str": "1327834697272070149",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+          "url": "https://t.co/meppGXvdNY",
+          "display_url": "pic.twitter.com/meppGXvdNY",
+          "expanded_url": "https://twitter.com/AffinityPlay/status/1327835018413166592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1327835018413166600,
+          "source_status_id_str": "1327835018413166592",
+          "source_user_id": 500345045,
+          "source_user_id_str": "500345045"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1327834697272070100,
+          "id_str": "1327834697272070149",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+          "url": "https://t.co/meppGXvdNY",
+          "display_url": "pic.twitter.com/meppGXvdNY",
+          "expanded_url": "https://twitter.com/AffinityPlay/status/1327835018413166592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1327835018413166600,
+          "source_status_id_str": "1327835018413166592",
+          "source_user_id": 500345045,
+          "source_user_id_str": "500345045"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 15 04:45:13 +0000 2020",
+      "id": 1327835018413166600,
+      "id_str": "1327835018413166592",
+      "text": "Red Skies\n\n#pixelart #ドット絵 #SaturdayVibes https://t.co/meppGXvdNY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pixelart",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "text": "ドット絵",
+            "indices": [
+              21,
+              26
+            ]
+          },
+          {
+            "text": "SaturdayVibes",
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1327834697272070100,
+            "id_str": "1327834697272070149",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+            "url": "https://t.co/meppGXvdNY",
+            "display_url": "pic.twitter.com/meppGXvdNY",
+            "expanded_url": "https://twitter.com/AffinityPlay/status/1327835018413166592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1327834697272070100,
+            "id_str": "1327834697272070149",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Em1qnztXEAUoHmU.jpg",
+            "url": "https://t.co/meppGXvdNY",
+            "display_url": "pic.twitter.com/meppGXvdNY",
+            "expanded_url": "https://twitter.com/AffinityPlay/status/1327835018413166592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 500345045,
+        "id_str": "500345045",
+        "name": "Gordon Zuchhold",
+        "screen_name": "AffinityPlay",
+        "location": "",
+        "description": "Pixel/Voxel Artist - Working on MAX GREENE a Sci-fi Adventure Game.\nShop: https://t.co/JJ8yLwF51Y",
+        "url": "https://t.co/JJ8yLwF51Y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JJ8yLwF51Y",
+                "expanded_url": "http://SDMono.redbubble.com",
+                "display_url": "SDMono.redbubble.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/JJ8yLwF51Y",
+                "expanded_url": "http://SDMono.redbubble.com",
+                "display_url": "SDMono.redbubble.com",
+                "indices": [
+                  74,
+                  97
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6325,
+        "friends_count": 2731,
+        "listed_count": 176,
+        "created_at": "Thu Feb 23 01:47:20 +0000 2012",
+        "favourites_count": 22040,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7331,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278481637060358146/iH3v2Otk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278481637060358146/iH3v2Otk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/500345045/1605148774",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 188,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 15 17:54:41 +0000 2020",
+    "id": 1328033696222474200,
+    "id_str": "1328033696222474241",
+    "text": "RT @genintco: She sauntered in like she owned the place which, in this case, she did. A flunky leaned in close, whispered something and ret…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "genintco",
+          "name": "General Interactive Co.",
+          "id": 827396903952191500,
+          "id_str": "827396903952191488",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 14 15:00:02 +0000 2020",
+      "id": 1327627355288965000,
+      "id_str": "1327627355288965120",
+      "text": "She sauntered in like she owned the place which, in this case, she did. A flunky leaned in close, whispered somethi… https://t.co/7AtdBEBwCV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7AtdBEBwCV",
+            "expanded_url": "https://twitter.com/i/web/status/1327627355288965120",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 827396903952191500,
+        "id_str": "827396903952191488",
+        "name": "General Interactive Co.",
+        "screen_name": "genintco",
+        "location": "Singapore",
+        "description": "Indie dev team led by @mrkfillon working on Carmen Sandiego-inspired cybernoir adventure Chinatown Detective Agency. Makers of winemaking tycoon game Terroir.",
+        "url": "https://t.co/UiMdBuUxtH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UiMdBuUxtH",
+                "expanded_url": "https://store.steampowered.com/app/1401920/Chinatown_Detective_Agency_Day_One/",
+                "display_url": "store.steampowered.com/app/1401920/Ch…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2268,
+        "friends_count": 71,
+        "listed_count": 43,
+        "created_at": "Fri Feb 03 06:02:49 +0000 2017",
+        "favourites_count": 1836,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1143,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1285215538835152903/yyOI2uUv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285215538835152903/yyOI2uUv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827396903952191488/1601675271",
+        "profile_link_color": "581845",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 37,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 14 21:51:18 +0000 2020",
+    "id": 1327730856077758500,
+    "id_str": "1327730856077758465",
+    "text": "RT @ProjectHeat1: As in a versus fighting game, you can use the attack strenghts to get different versions of a special move. These will ha…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ProjectHeat1",
+          "name": "ProjectHeat",
+          "id": 1281943554332524500,
+          "id_str": "1281943554332524550",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 14 19:15:02 +0000 2020",
+      "id": 1327691527360049200,
+      "id_str": "1327691527360049152",
+      "text": "As in a versus fighting game, you can use the attack strenghts to get different versions of a special move. These w… https://t.co/zUlFsckHpL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zUlFsckHpL",
+            "expanded_url": "https://twitter.com/i/web/status/1327691527360049152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1281943554332524500,
+        "id_str": "1281943554332524550",
+        "name": "ProjectHeat",
+        "screen_name": "ProjectHeat1",
+        "location": "",
+        "description": "Devlog account for Project HEAT, a work in progress 2D beat'em up videogame. Frequently like and RT art/game related stuff. Can get NSFW.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5649,
+        "friends_count": 1613,
+        "listed_count": 47,
+        "created_at": "Sat Jul 11 13:32:01 +0000 2020",
+        "favourites_count": 4765,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 359,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1281946467733839883/KDr5ZHSI_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281946467733839883/KDr5ZHSI_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 137,
+      "favorite_count": 880,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 137,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 14 21:50:12 +0000 2020",
+    "id": 1327730579652157400,
+    "id_str": "1327730579652157441",
+    "text": "RT @Mcdoogleh: Hey #IamPOCinPlay &amp; #screenshotsaturday ; I'm a British-Indian Independent Developer based in the UK working on this spacey-…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IamPOCinPlay",
+          "indices": [
+            19,
+            32
+          ]
+        },
+        {
+          "text": "screenshotsaturday",
+          "indices": [
+            39,
+            58
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Mcdoogleh",
+          "name": "McDoogleh",
+          "id": 2594859678,
+          "id_str": "2594859678",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 14 17:59:37 +0000 2020",
+      "id": 1327672550000914400,
+      "id_str": "1327672550000914433",
+      "text": "Hey #IamPOCinPlay &amp; #screenshotsaturday ; I'm a British-Indian Independent Developer based in the UK working on thi… https://t.co/laZGNmaiR5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "IamPOCinPlay",
+            "indices": [
+              4,
+              17
+            ]
+          },
+          {
+            "text": "screenshotsaturday",
+            "indices": [
+              24,
+              43
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/laZGNmaiR5",
+            "expanded_url": "https://twitter.com/i/web/status/1327672550000914433",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2594859678,
+        "id_str": "2594859678",
+        "name": "McDoogleh",
+        "screen_name": "Mcdoogleh",
+        "location": "",
+        "description": "Software/Game Developer/Electromagician| Tinkerer of Gadgets | Cat Master 😹\n\n#BAFTACrew 2019\nWorking on a Spaceflight Game!\n\nViews expressed here are my own 👍",
+        "url": "https://t.co/zBNU5JNAjw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zBNU5JNAjw",
+                "expanded_url": "https://www.youtube.com/channel/UCqZK6bICtE8AOZv_sCFjGKg/",
+                "display_url": "youtube.com/channel/UCqZK6…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2510,
+        "friends_count": 3839,
+        "listed_count": 87,
+        "created_at": "Sun Jun 29 14:29:53 +0000 2014",
+        "favourites_count": 134503,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 46174,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212161582320508928/TNm0vThU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212161582320508928/TNm0vThU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2594859678/1404071740",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 97,
+      "favorite_count": 708,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 97,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 14 17:37:03 +0000 2020",
+    "id": 1327666870359449600,
+    "id_str": "1327666870359449600",
+    "text": "Im sorry, what? https://t.co/V51HZrwKK7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/V51HZrwKK7",
+          "expanded_url": "https://twitter.com/davidfarrier/status/1327292226628583425",
+          "display_url": "twitter.com/davidfarrier/s…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1327292226628583400,
+    "quoted_status_id_str": "1327292226628583425",
+    "quoted_status": {
+      "created_at": "Fri Nov 13 16:48:21 +0000 2020",
+      "id": 1327292226628583400,
+      "id_str": "1327292226628583425",
+      "text": "in 1990 the window of a plane fell off and one of the pilots got sucked out so they just held onto his legs while t… https://t.co/tnMArsjIaJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tnMArsjIaJ",
+            "expanded_url": "https://twitter.com/i/web/status/1327292226628583425",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20419879,
+        "id_str": "20419879",
+        "name": "David Farrier",
+        "screen_name": "davidfarrier",
+        "location": "Life Finds a Way",
+        "description": "i write here: https://t.co/ylfgmAf2MT | DARK TOURIST on @netflix | TICKLED on @hulu | email: davidfarrier@protonmail.com | work: @unitedtalent",
+        "url": "https://t.co/HKOEiLdWFz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HKOEiLdWFz",
+                "expanded_url": "http://linktr.ee/davidfarrier",
+                "display_url": "linktr.ee/davidfarrier",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/ylfgmAf2MT",
+                "expanded_url": "http://www.webworm.co",
+                "display_url": "webworm.co",
+                "indices": [
+                  14,
+                  37
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 165524,
+        "friends_count": 2012,
+        "listed_count": 628,
+        "created_at": "Mon Feb 09 06:27:41 +0000 2009",
+        "favourites_count": 36270,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 22617,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1257924991443582979/KkgKUgEz_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257924991443582979/KkgKUgEz_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20419879/1603257534",
+        "profile_link_color": "131516",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 31336,
+      "favorite_count": 173206,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 14 17:32:45 +0000 2020",
+    "id": 1327665789701243000,
+    "id_str": "1327665789701242881",
+    "text": "RT @chaosprime: one's a fucking working time machine and the next most interesting one is a car with Siri in it, how is this a question htt…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "chaosprime",
+          "name": "Chaos",
+          "id": 701612912,
+          "id_str": "701612912",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 14 16:44:59 +0000 2020",
+      "id": 1327653768037601300,
+      "id_str": "1327653768037601281",
+      "text": "one's a fucking working time machine and the next most interesting one is a car with Siri in it, how is this a ques… https://t.co/qhMFXuBEa2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qhMFXuBEa2",
+            "expanded_url": "https://twitter.com/i/web/status/1327653768037601281",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 701612912,
+        "id_str": "701612912",
+        "name": "Chaos",
+        "screen_name": "chaosprime",
+        "location": "",
+        "description": "cognitive arms dealer",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10019,
+        "friends_count": 803,
+        "listed_count": 174,
+        "created_at": "Tue Jul 17 19:17:18 +0000 2012",
+        "favourites_count": 142589,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 96941,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238567139163979777/Ay1VczCm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238567139163979777/Ay1VczCm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701612912/1584132501",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1327420806788419600,
+      "quoted_status_id_str": "1327420806788419584",
+      "quoted_status": {
+        "created_at": "Sat Nov 14 01:19:17 +0000 2020",
+        "id": 1327420806788419600,
+        "id_str": "1327420806788419584",
+        "text": "The keys are in the ignition.  You can only take one.\nWhich one do you choose? https://t.co/P05NrrWziz",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1327420634339700700,
+              "id_str": "1327420634339700736",
+              "indices": [
+                79,
+                102
+              ],
+              "media_url": "http://pbs.twimg.com/media/EmvyCLFXcAAPPNG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EmvyCLFXcAAPPNG.jpg",
+              "url": "https://t.co/P05NrrWziz",
+              "display_url": "pic.twitter.com/P05NrrWziz",
+              "expanded_url": "https://twitter.com/Jess_asli/status/1327420806788419584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 629,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 717,
+                  "h": 775,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 717,
+                  "h": 775,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1327420634339700700,
+              "id_str": "1327420634339700736",
+              "indices": [
+                79,
+                102
+              ],
+              "media_url": "http://pbs.twimg.com/media/EmvyCLFXcAAPPNG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EmvyCLFXcAAPPNG.jpg",
+              "url": "https://t.co/P05NrrWziz",
+              "display_url": "pic.twitter.com/P05NrrWziz",
+              "expanded_url": "https://twitter.com/Jess_asli/status/1327420806788419584/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 629,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 717,
+                  "h": 775,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 717,
+                  "h": 775,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 23402741,
+          "id_str": "23402741",
+          "name": "Jess",
+          "screen_name": "Jess_asli",
+          "location": "",
+          "description": "ASL Interpreter. Proud mom. Lover of the earth & it’s inhabitants. Dreamer of peace. Cancer slayer. 🏳️‍🌈 ally. #BLM #KindnessMatters  \n• no DMs please •",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 9244,
+          "friends_count": 8640,
+          "listed_count": 3,
+          "created_at": "Mon Mar 09 04:40:42 +0000 2009",
+          "favourites_count": 11854,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 5330,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1283207171480653824/aFxauLNq_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283207171480653824/aFxauLNq_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/23402741/1600566955",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 127,
+        "favorite_count": 1040,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 67,
+      "favorite_count": 518,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1327420806788419600,
+    "quoted_status_id_str": "1327420806788419584",
+    "retweet_count": 67,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 14 16:21:38 +0000 2020",
+    "id": 1327647892404899800,
+    "id_str": "1327647892404899844",
+    "text": "Is there an open source license that restricts usage in military or law enforcement applications?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 14 16:20:28 +0000 2020",
+    "id": 1327647596731654100,
+    "id_str": "1327647596731654144",
+    "text": "@mxcodediva No idea but i kinda like thinking about my body being made up of billions(?) of double helixes 🧬. Just a package of strands",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mxcodediva",
+          "name": "🌸💀 MxDEADC0DE 💀🌸",
+          "id": 811974137702916100,
+          "id_str": "811974137702916096",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1327643099833774000,
+    "in_reply_to_status_id_str": "1327643099833774080",
+    "in_reply_to_user_id": 811974137702916100,
+    "in_reply_to_user_id_str": "811974137702916096",
+    "in_reply_to_screen_name": "mxcodediva",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 14 06:24:58 +0000 2020",
+    "id": 1327497736548184000,
+    "id_str": "1327497736548184064",
+    "text": "This is exactly why I gave up being a frontend focused developer. https://t.co/b8WpaH3WLc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/b8WpaH3WLc",
+          "expanded_url": "https://twitter.com/mcclure111/status/1327483679434797057",
+          "display_url": "twitter.com/mcclure111/sta…",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 561,
+      "friends_count": 1246,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1327483679434797000,
+    "quoted_status_id_str": "1327483679434797057",
+    "quoted_status": {
+      "created_at": "Sat Nov 14 05:29:07 +0000 2020",
+      "id": 1327483679434797000,
+      "id_str": "1327483679434797057",
+      "text": "JavaScript: Still doing the thing where any upgrade could break your app in baffling ways https://t.co/Q8ay78zP45",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1327483611029917700,
+            "id_str": "1327483611029917696",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmwrT5iXUAAYmeb.png",
+            "media_url_https": "https://pbs.twimg.com/media/EmwrT5iXUAAYmeb.png",
+            "url": "https://t.co/Q8ay78zP45",
+            "display_url": "pic.twitter.com/Q8ay78zP45",
+            "expanded_url": "https://twitter.com/mcclure111/status/1327483679434797057/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1484,
+                "h": 332,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 268,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1327483611029917700,
+            "id_str": "1327483611029917696",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmwrT5iXUAAYmeb.png",
+            "media_url_https": "https://pbs.twimg.com/media/EmwrT5iXUAAYmeb.png",
+            "url": "https://t.co/Q8ay78zP45",
+            "display_url": "pic.twitter.com/Q8ay78zP45",
+            "expanded_url": "https://twitter.com/mcclure111/status/1327483679434797057/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1484,
+                "h": 332,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 268,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 312426579,
+        "id_str": "312426579",
+        "name": "mcc",
+        "screen_name": "mcclure111",
+        "location": "",
+        "description": "glitch girl – working on a vr game, announcements at @mermaidvr – current avatar by @egypturnash – also at https://t.co/BW7EdeXEWd — she/her — 🏳️‍⚧️🏳️‍🌈",
+        "url": "https://t.co/ev5JFWgXa7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ev5JFWgXa7",
+                "expanded_url": "http://runhello.com/",
+                "display_url": "runhello.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/BW7EdeXEWd",
+                "expanded_url": "http://mastodon.social/@mcc",
+                "display_url": "mastodon.social/@mcc",
+                "indices": [
+                  107,
+                  130
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 26467,
+        "friends_count": 3281,
+        "listed_count": 614,
+        "created_at": "Tue Jun 07 03:20:19 +0000 2011",
+        "favourites_count": 99108,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 460893,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/852519442047225857/juzc1JeR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/852519442047225857/juzc1JeR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/312426579/1399165328",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 38,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
