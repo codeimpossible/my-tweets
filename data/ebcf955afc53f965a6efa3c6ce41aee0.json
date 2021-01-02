@@ -1,0 +1,369 @@
+[
+  {
+    "created_at": "Sat Dec 26 16:50:33 +0000 2020",
+    "id": 1342875458543693800,
+    "id_str": "1342875458543693830",
+    "text": "RT @WolfSkullJack: From 2016 but still painfully relevant. . https://t.co/gyjgvNglPZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "WolfSkullJack",
+          "name": "WolfSkullJack",
+          "id": 486108654,
+          "id_str": "486108654",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1342801920923226000,
+          "id_str": "1342801920923226117",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+          "url": "https://t.co/gyjgvNglPZ",
+          "display_url": "pic.twitter.com/gyjgvNglPZ",
+          "expanded_url": "https://twitter.com/WolfSkullJack/status/1342801924610019333/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1342801924610019300,
+          "source_status_id_str": "1342801924610019333",
+          "source_user_id": 486108654,
+          "source_user_id_str": "486108654"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1342801920923226000,
+          "id_str": "1342801920923226117",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+          "url": "https://t.co/gyjgvNglPZ",
+          "display_url": "pic.twitter.com/gyjgvNglPZ",
+          "expanded_url": "https://twitter.com/WolfSkullJack/status/1342801924610019333/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1342801924610019300,
+          "source_status_id_str": "1342801924610019333",
+          "source_user_id": 486108654,
+          "source_user_id_str": "486108654"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 563,
+      "friends_count": 1263,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4049,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13099,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 26 11:58:21 +0000 2020",
+      "id": 1342801924610019300,
+      "id_str": "1342801924610019333",
+      "text": "From 2016 but still painfully relevant. . https://t.co/gyjgvNglPZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1342801920923226000,
+            "id_str": "1342801920923226117",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+            "url": "https://t.co/gyjgvNglPZ",
+            "display_url": "pic.twitter.com/gyjgvNglPZ",
+            "expanded_url": "https://twitter.com/WolfSkullJack/status/1342801924610019333/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1342801920923226000,
+            "id_str": "1342801920923226117",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EqKXO4xXUAU3Yca.jpg",
+            "url": "https://t.co/gyjgvNglPZ",
+            "display_url": "pic.twitter.com/gyjgvNglPZ",
+            "expanded_url": "https://twitter.com/WolfSkullJack/status/1342801924610019333/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 486108654,
+        "id_str": "486108654",
+        "name": "WolfSkullJack",
+        "screen_name": "WolfSkullJack",
+        "location": "UK",
+        "description": "Michelle/Artist/ wolf in girl shape. Volunteer at wolf rescue @Wolfwatch_UK Visit the shop https://t.co/0QApakVTDD",
+        "url": "https://t.co/i4lbaBIlot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/i4lbaBIlot",
+                "expanded_url": "http://www.wolfskulljack.com",
+                "display_url": "wolfskulljack.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/0QApakVTDD",
+                "expanded_url": "https://wolfskulljack.com",
+                "display_url": "wolfskulljack.com",
+                "indices": [
+                  91,
+                  114
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39818,
+        "friends_count": 2273,
+        "listed_count": 399,
+        "created_at": "Tue Feb 07 22:54:11 +0000 2012",
+        "favourites_count": 119297,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 65619,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080844014511968257/iYNBO3ly_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080844014511968257/iYNBO3ly_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/486108654/1603537877",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 441,
+      "favorite_count": 3118,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 441,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
