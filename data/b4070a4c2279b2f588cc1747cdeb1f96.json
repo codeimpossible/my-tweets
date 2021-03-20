@@ -1,0 +1,113 @@
+[
+  {
+    "created_at": "Tue Mar 16 16:10:58 +0000 2021",
+    "id": 1371856525615112200,
+    "id_str": "1371856525615112195",
+    "text": "@TheWizardGrimm @cuppy How is that different from deleting and re-posting?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TheWizardGrimm",
+          "name": "Freddy",
+          "id": 3270021486,
+          "id_str": "3270021486",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "cuppy",
+          "name": "🦄 Tami Sigmund 🎮",
+          "id": 9199472,
+          "id_str": "9199472",
+          "indices": [
+            16,
+            22
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1371610225040523300,
+    "in_reply_to_status_id_str": "1371610225040523264",
+    "in_reply_to_user_id": 3270021486,
+    "in_reply_to_user_id_str": "3270021486",
+    "in_reply_to_screen_name": "TheWizardGrimm",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Austin, TX",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/0YgVAq6Ffw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0YgVAq6Ffw",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 557,
+      "friends_count": 1257,
+      "listed_count": 47,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4029,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13111,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
