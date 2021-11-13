@@ -1,0 +1,1099 @@
+[
+  {
+    "created_at": "Wed Nov 10 20:42:45 +0000 2021",
+    "id": 1458535625200705500,
+    "id_str": "1458535625200705542",
+    "text": "remember os/2 warp?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 551,
+      "friends_count": 1291,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4063,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 10 20:39:07 +0000 2021",
+    "id": 1458534707944116200,
+    "id_str": "1458534707944116227",
+    "text": "👇if you want to know more my DMs are open. hit me with any questions. https://t.co/fMvmSES6rB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fMvmSES6rB",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1458534310290526210",
+          "display_url": "twitter.com/codeimpossible…",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 551,
+      "friends_count": 1291,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4063,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1458534310290526200,
+    "quoted_status_id_str": "1458534310290526210",
+    "quoted_status": {
+      "created_at": "Wed Nov 10 20:37:32 +0000 2021",
+      "id": 1458534310290526200,
+      "id_str": "1458534310290526210",
+      "text": "I don't think I've done this ever, but today marks my seventh year at @Hudl and it's still an amazing place to work… https://t.co/gzM4BSFptB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hudl",
+            "name": "Hudl",
+            "id": 19012368,
+            "id_str": "19012368",
+            "indices": [
+              70,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gzM4BSFptB",
+            "expanded_url": "https://twitter.com/i/web/status/1458534310290526210",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1067521,
+        "id_str": "1067521",
+        "name": "Jared Barboza",
+        "screen_name": "codeimpossible",
+        "location": "Boston, MA",
+        "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+        "url": "https://t.co/n1cHUoBkIO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/n1cHUoBkIO",
+                "expanded_url": "http://jaredbarboza.me",
+                "display_url": "jaredbarboza.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 551,
+        "friends_count": 1291,
+        "listed_count": 44,
+        "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+        "favourites_count": 4063,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13220,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "7A7A7A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+        "profile_link_color": "00CCFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "EDEDED",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 10 20:37:32 +0000 2021",
+    "id": 1458534310290526200,
+    "id_str": "1458534310290526210",
+    "text": "I don't think I've done this ever, but today marks my seventh year at @Hudl and it's still an amazing place to work… https://t.co/gzM4BSFptB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Hudl",
+          "name": "Hudl",
+          "id": 19012368,
+          "id_str": "19012368",
+          "indices": [
+            70,
+            75
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gzM4BSFptB",
+          "expanded_url": "https://twitter.com/i/web/status/1458534310290526210",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 551,
+      "friends_count": 1291,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4063,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 10 20:26:53 +0000 2021",
+    "id": 1458531628830105600,
+    "id_str": "1458531628830105601",
+    "text": "RT @codeimpossible: I miss my friend 😢 https://t.co/l8ElUYuLXp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "codeimpossible",
+          "name": "Jared Barboza",
+          "id": 1067521,
+          "id_str": "1067521",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1385981919188377600,
+          "id_str": "1385981919188377604",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+          "url": "https://t.co/l8ElUYuLXp",
+          "display_url": "pic.twitter.com/l8ElUYuLXp",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1385981923714113537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1385981923714113500,
+          "source_status_id_str": "1385981923714113537",
+          "source_user_id": 1067521,
+          "source_user_id_str": "1067521"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1385981919188377600,
+          "id_str": "1385981919188377604",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+          "url": "https://t.co/l8ElUYuLXp",
+          "display_url": "pic.twitter.com/l8ElUYuLXp",
+          "expanded_url": "https://twitter.com/codeimpossible/status/1385981923714113537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1385981923714113500,
+          "source_status_id_str": "1385981923714113537",
+          "source_user_id": 1067521,
+          "source_user_id_str": "1067521"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 551,
+      "friends_count": 1291,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4063,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Apr 24 15:40:15 +0000 2021",
+      "id": 1385981923714113500,
+      "id_str": "1385981923714113537",
+      "text": "I miss my friend 😢 https://t.co/l8ElUYuLXp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1385981919188377600,
+            "id_str": "1385981919188377604",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+            "url": "https://t.co/l8ElUYuLXp",
+            "display_url": "pic.twitter.com/l8ElUYuLXp",
+            "expanded_url": "https://twitter.com/codeimpossible/status/1385981923714113537/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1385981919188377600,
+            "id_str": "1385981919188377604",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ezv_NlZWYAQRl8e.jpg",
+            "url": "https://t.co/l8ElUYuLXp",
+            "display_url": "pic.twitter.com/l8ElUYuLXp",
+            "expanded_url": "https://twitter.com/codeimpossible/status/1385981923714113537/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1067521,
+        "id_str": "1067521",
+        "name": "Jared Barboza",
+        "screen_name": "codeimpossible",
+        "location": "Boston, MA",
+        "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+        "url": "https://t.co/n1cHUoBkIO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/n1cHUoBkIO",
+                "expanded_url": "http://jaredbarboza.me",
+                "display_url": "jaredbarboza.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 551,
+        "friends_count": 1291,
+        "listed_count": 44,
+        "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+        "favourites_count": 4063,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13220,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "7A7A7A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+        "profile_link_color": "00CCFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "EDEDED",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 09 22:05:13 +0000 2021",
+    "id": 1458193990411559000,
+    "id_str": "1458193990411558912",
+    "text": "@glassbottommeg ugh \"the metaverse\". whyyyyyyyyyyyyyyyyyyy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "glassbottommeg",
+          "name": "Megan Fox (🛹🐦 OUT NOW)",
+          "id": 237483143,
+          "id_str": "237483143",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1458193257578446800,
+    "in_reply_to_status_id_str": "1458193257578446859",
+    "in_reply_to_user_id": 237483143,
+    "in_reply_to_user_id_str": "237483143",
+    "in_reply_to_screen_name": "glassbottommeg",
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 551,
+      "friends_count": 1291,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4063,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 06 14:41:50 +0000 2021",
+    "id": 1456995243325280300,
+    "id_str": "1456995243325280265",
+    "text": "hiring needs overhaul in a lot of areas but this is not the answer. https://t.co/qkRWQgjlai",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qkRWQgjlai",
+          "expanded_url": "https://twitter.com/gregisenberg/status/1456588823287275528",
+          "display_url": "twitter.com/gregisenberg/s…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 551,
+      "friends_count": 1291,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4063,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1456588823287275500,
+    "quoted_status_id_str": "1456588823287275528",
+    "quoted_status": {
+      "created_at": "Fri Nov 05 11:46:52 +0000 2021",
+      "id": 1456588823287275500,
+      "id_str": "1456588823287275528",
+      "text": "Today’s hiring process is broken\n\nIn the future, you'll be able to apply for a job and start working 60 seconds lat… https://t.co/4LZMjdJhNY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4LZMjdJhNY",
+            "expanded_url": "https://twitter.com/i/web/status/1456588823287275528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14642331,
+        "id_str": "14642331",
+        "name": "GREG ISENBERG",
+        "screen_name": "gregisenberg",
+        "location": "25,000 people read my emails →",
+        "description": "I talk about web3 communities and community-based products. CEO: @latecheckoutplz, advisor @reddit. Invest with me: https://t.co/tpi7jA1unY",
+        "url": "https://t.co/8xYZQAne9P",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/8xYZQAne9P",
+                "expanded_url": "https://latecheckout.substack.com/",
+                "display_url": "latecheckout.substack.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/tpi7jA1unY",
+                "expanded_url": "http://angel.co/v/l/LtD0F",
+                "display_url": "angel.co/v/l/LtD0F",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 209677,
+        "friends_count": 709,
+        "listed_count": 3420,
+        "created_at": "Sat May 03 23:08:05 +0000 2008",
+        "favourites_count": 45397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 38717,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1454518602988720129/T76h1Bk9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1454518602988720129/T76h1Bk9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14642331/1631326620",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "232630",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 766,
+      "favorite_count": 4133,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
