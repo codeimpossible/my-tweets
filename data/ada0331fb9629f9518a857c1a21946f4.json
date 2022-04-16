@@ -1,0 +1,311 @@
+[
+  {
+    "created_at": "Sat Apr 09 01:33:47 +0000 2022",
+    "id": 1512604656668717000,
+    "id_str": "1512604656668717060",
+    "text": "RT @SusanahGrace: Look.\n\nListen.\n\nThat, and an abundance of commas and dashes is the best way of me translating how I speak into how I writ…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SusanahGrace",
+          "name": "Susanah Grace",
+          "id": 2657821208,
+          "id_str": "2657821208",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 552,
+      "friends_count": 1294,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4120,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13239,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 08 21:15:44 +0000 2022",
+      "id": 1512539716557713400,
+      "id_str": "1512539716557713413",
+      "text": "Look.\n\nListen.\n\nThat, and an abundance of commas and dashes is the best way of me translating how I speak into how… https://t.co/11mL19uYMt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/11mL19uYMt",
+            "expanded_url": "https://twitter.com/i/web/status/1512539716557713413",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2657821208,
+        "id_str": "2657821208",
+        "name": "Susanah Grace",
+        "screen_name": "SusanahGrace",
+        "location": "susanahgrace@gmail.com",
+        "description": "Not Susannah | She/Her | Media & Marketing / Art Director @followblackcats | Artist for #TTRPGs (Star Trek, The Spy Game) | Streamer  | Queen of Dorne | 🏳️‍🌈",
+        "url": "https://t.co/s6FJbCsp09",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/s6FJbCsp09",
+                "expanded_url": "http://twitch.tv/susanahgrace",
+                "display_url": "twitch.tv/susanahgrace",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4973,
+        "friends_count": 661,
+        "listed_count": 95,
+        "created_at": "Fri Jul 18 21:44:49 +0000 2014",
+        "favourites_count": 140640,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 45783,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1508107419351764994/4-AKF-T0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1508107419351764994/4-AKF-T0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2657821208/1635870520",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1512437602007273500,
+      "quoted_status_id_str": "1512437602007273472",
+      "quoted_status": {
+        "created_at": "Fri Apr 08 14:29:58 +0000 2022",
+        "id": 1512437602007273500,
+        "id_str": "1512437602007273472",
+        "text": "the ADHD urge to use parenthesis in every sentence (because every thought comes with additional bonus content)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16269197,
+          "id_str": "16269197",
+          "name": "Dani Donovan 👩🏻‍🎨 ADHD Comics",
+          "screen_name": "danidonovan",
+          "location": "Atlanta, GA",
+          "description": "🎨 ADHD artist + TikTok creator 🧠 #NeurodiverseSquad 📚 Author of “Anti-Planner: How to Get Sh*t Done When You Don’t Feel Like It” ✨https://t.co/CGtUcMRepp✨",
+          "url": "https://t.co/msJ2xP5nuF",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/msJ2xP5nuF",
+                  "expanded_url": "http://adhddd.com",
+                  "display_url": "adhddd.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/CGtUcMRepp",
+                  "expanded_url": "http://anti-planner.com",
+                  "display_url": "anti-planner.com",
+                  "indices": [
+                    130,
+                    153
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 119548,
+          "friends_count": 2284,
+          "listed_count": 939,
+          "created_at": "Sat Sep 13 06:06:47 +0000 2008",
+          "favourites_count": 57410,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 18632,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "091304",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1412526933884162050/x3XCHsab_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412526933884162050/x3XCHsab_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/16269197/1649384509",
+          "profile_link_color": "7D7D7D",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "262626",
+          "profile_text_color": "696545",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 45057,
+        "favorite_count": 322586,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 2,
+      "favorite_count": 40,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1512437602007273500,
+    "quoted_status_id_str": "1512437602007273472",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  }
+]
