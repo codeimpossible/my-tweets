@@ -1,0 +1,348 @@
+[
+  {
+    "created_at": "Mon Jul 04 00:18:24 +0000 2022",
+    "id": 1543751041623228400,
+    "id_str": "1543751041623228417",
+    "text": "RT @Glassworks18: It's finally happened. https://t.co/MK6eSYQfSW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Glassworks18",
+          "name": "Alexander Glass",
+          "id": 1294673347050197000,
+          "id_str": "1294673347050196994",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1543160037660655600,
+          "id_str": "1543160037660655617",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+          "url": "https://t.co/MK6eSYQfSW",
+          "display_url": "pic.twitter.com/MK6eSYQfSW",
+          "expanded_url": "https://twitter.com/Glassworks18/status/1543160054345601024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1543160054345601000,
+          "source_status_id_str": "1543160054345601024",
+          "source_user_id": 1294673347050197000,
+          "source_user_id_str": "1294673347050196994"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1543160037660655600,
+          "id_str": "1543160037660655617",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+          "url": "https://t.co/MK6eSYQfSW",
+          "display_url": "pic.twitter.com/MK6eSYQfSW",
+          "expanded_url": "https://twitter.com/Glassworks18/status/1543160054345601024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1543160054345601000,
+          "source_status_id_str": "1543160054345601024",
+          "source_user_id": 1294673347050197000,
+          "source_user_id_str": "1294673347050196994"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067521,
+      "id_str": "1067521",
+      "name": "Jared Barboza",
+      "screen_name": "codeimpossible",
+      "location": "Boston, MA",
+      "description": "they/them. future skeleton. ADHD, anxiety ridden meat sack. introvert. programmer. pixel artist. game dev. cat parent.",
+      "url": "https://t.co/n1cHUoBkIO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/n1cHUoBkIO",
+              "expanded_url": "http://jaredbarboza.me",
+              "display_url": "jaredbarboza.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 541,
+      "friends_count": 1290,
+      "listed_count": 44,
+      "created_at": "Tue Mar 13 04:14:07 +0000 2007",
+      "favourites_count": 4116,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13230,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7A7A7A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174702949882368002/AS-VGHHA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067521/1475994547",
+      "profile_link_color": "00CCFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "EDEDED",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jul 02 09:10:02 +0000 2022",
+      "id": 1543160054345601000,
+      "id_str": "1543160054345601024",
+      "text": "It's finally happened. https://t.co/MK6eSYQfSW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1543160037660655600,
+            "id_str": "1543160037660655617",
+            "indices": [
+              23,
+              46
+            ],
+            "media_url": "http://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+            "url": "https://t.co/MK6eSYQfSW",
+            "display_url": "pic.twitter.com/MK6eSYQfSW",
+            "expanded_url": "https://twitter.com/Glassworks18/status/1543160054345601024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1543160037660655600,
+            "id_str": "1543160037660655617",
+            "indices": [
+              23,
+              46
+            ],
+            "media_url": "http://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FWpn4NRXgAE1ZSf.jpg",
+            "url": "https://t.co/MK6eSYQfSW",
+            "display_url": "pic.twitter.com/MK6eSYQfSW",
+            "expanded_url": "https://twitter.com/Glassworks18/status/1543160054345601024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1294673347050197000,
+        "id_str": "1294673347050196994",
+        "name": "Alexander Glass",
+        "screen_name": "Glassworks18",
+        "location": "",
+        "description": "SF, weird fiction and randomness.\n\n'From far, from eve and morning\nAnd yon twelve-winded sky,\nThe stuff of life to knit me\nBlew hither; here am I.'",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 569,
+        "friends_count": 987,
+        "listed_count": 2,
+        "created_at": "Sat Aug 15 16:32:56 +0000 2020",
+        "favourites_count": 9135,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4440,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294673552428474372/GT_z5hHQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294673552428474372/GT_z5hHQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294673347050196994/1597515542",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8318,
+      "favorite_count": 72428,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8318,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
