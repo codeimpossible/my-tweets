@@ -13,6 +13,13 @@ if (args.length === 0) {
     process.exit(1);
 }
 
+process.on('uncaughtException', function (err) {
+    if (err) {
+        console.log(`uncaught exception ${err}`, err.stack);
+        process.exit(1);
+    }
+});
+
 const credentialsFile = path.resolve(__dirname, '../credentials.json');
 if (fs.existsSync(credentialsFile)) {
     const credentalsJson = fs.readFileSync(credentialsFile).toString();
@@ -23,10 +30,14 @@ if (fs.existsSync(credentialsFile)) {
 
 (async function Main(screen_name, since) {
     since = since || -1;
-    const tweets = await fetchTweets(screen_name, since);
-    if (tweets.length > 0 && !tweets.errors) {
-        await storeTweets(tweets);
-        console.log(`🐣 stored ${tweets.length} tweets.`);
+    try {
+        const tweets = await fetchTweets(screen_name, since);
+        if (tweets.length > 0 && !tweets.errors) {
+            await storeTweets(tweets);
+            console.log(`🐣 stored ${tweets.length} tweets.`);
+        }
+    } catch (e) {
+        console.log(`exception while fetching tweets. ${e}`, e.stack);
     }
     process.exit(0);
 })(args[0], index.latestId);
