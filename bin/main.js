@@ -37,7 +37,8 @@ if (fs.existsSync(credentialsFile)) {
             console.log(`🐣 stored ${tweets.length} tweets.`);
         }
     } catch (e) {
-        console.log(`exception while fetching tweets. ${e}`, e.stack);
+        console.log(`exception while fetching tweets.`, e, e.stack);
+        console.log(JSON.stringify(e));
     }
     process.exit(0);
 })(args[0], index.latestId);
