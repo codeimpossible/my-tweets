@@ -1,32 +1,32 @@
 name: Fetch Tweets and Publish new package
-on: 
+on:
     workflow_dispatch:
     schedule:
-      - cron:  '0 0 * * 6' 
+      - cron:  '0 0 * * 6'
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
     - name: Prep
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v3
       with:
-        node-version: '12'
+        node-version: '16'
         registry-url: 'https://npm.pkg.github.com'
         scope: 'codeimpossible'
     - name: Fetch Tweets
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Fetch tweets and push
       env:
-        GITHUB_USER: 'codeimpossible'
         TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
         TWITTER_ACCESS_KEY: ${{ secrets.TWITTER_ACCESS_KEY }}
         TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
         NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         yarn install
-        node ./bin/main.js ${GITHUB_USER}
+        node ./bin/main.js
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add .
