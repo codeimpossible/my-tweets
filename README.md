@@ -1,5 +1,5 @@
 # my-tweets
-My tweets, backed up and committed automatically via github actions.
+My tweets and mastodon posts, backed up and committed automatically via github actions.
 
 ## Loading my tweets
 

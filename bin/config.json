@@ -1,0 +1,9 @@
+{
+    "mastodon": {
+        "screen_name": "Literallyacat",
+        "host": "https://mastodon.gamedev.place"
+    },
+    "twitter": {
+        "screen_name": "codeimpossible"
+    }
+}
