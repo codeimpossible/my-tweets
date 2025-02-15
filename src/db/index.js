@@ -61,13 +61,13 @@ module.exports.getTweets = loadTweets;
 module.exports.sorts = sorts;
 module.exports.selectors = selectors;
 
-module.exports.storeTweets = async function(tweets) {
+module.exports.storeTweets = async function(toots, tootType) {
     // find the latest id in the collections
-    const latestTweet = selectors.first(tweets.sort(sorts.byDateDesc));
-    const json = JSON.stringify(tweets);
+    const latestTweet = selectors.first(toots.sort(sorts.byDateDesc));
+    const json = JSON.stringify(toots);
     const id = md5(json);
-    await writeJson(path.resolve(data_dir, `${id}.json`), tweets);
-    idx.latestId = latestTweet.id_str;
+    await writeJson(path.resolve(data_dir, `${id}.json`), toots);
+    idx[`latest_${tootType}_id`] = latestTweet.id;
     idx.sources.push(`${id}.json`);
     await saveIndex();
 };

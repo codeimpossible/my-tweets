@@ -1,44 +1,61 @@
 const fs = require('fs');
 const path = require('path');
-const { fetchTweets, setCredentials } = require('./../src/fetch-tweets');
 const { index, storeTweets } = require('./../src/db');
+const config = require('./config.json');
+
+const fetchTasks = [
+    require('./../src/fetch-tweets'),
+    require('./../src/fetch-toots'),
+];
 
 const args = process.argv.slice(2);
 
-if (args.length === 0) {
-    console.log('Usage: my-tweets twitter_user');
-    console.log(' twitter_user         The twitter username of the user to pull tweets for');
+if (args.includes('--help')) {
+    console.log('Usage: my-tweets');
+    console.log('    Fetches tweets and posts from twitter and mastodon and stores them in an indexed json catalog. Configuration is specified via a config.json file.');
     console.log('');
-    console.log('Example: $ my-tweets codeimpossible');
+    console.log('  Configuration');
+    console.log('  {');
+    console.log('    "mastodon": {');
+    console.log('      "screen_name": "exampleUser"             // the screen name of the user to fetch posts for');
+    console.log('      "host": "http://mastodon.example.com"    // the hostname of the mastodon instance to interact with');
+    console.log('    },');
+    console.log('    "twitter": {');
+    console.log('      "screen_name": "exampleUser"             // the screen name of the user to fetch posts for');
+    console.log('    },');
+    console.log('  }');
+    console.log('');
+    console.log('Example: $ my-tweets');
     process.exit(1);
 }
 
 process.on('uncaughtException', function (err) {
     if (err) {
-        console.log(`uncaught exception ${err}`, err.stack);
+        console.log(`uncaught exception ${err}`, err, err.stack);
+        console.log(JSON.stringify(err));
         process.exit(1);
     }
 });
 
-const credentialsFile = path.resolve(__dirname, '../credentials.json');
-if (fs.existsSync(credentialsFile)) {
-    const credentalsJson = fs.readFileSync(credentialsFile).toString();
-    const credentials = JSON.parse(credentalsJson);
-    console.log(credentials);
-    setCredentials(credentials);
-}
-
-(async function Main(screen_name, since) {
-    since = since || -1;
-    try {
-        const tweets = await fetchTweets(screen_name, since);
-        if (tweets.length > 0 && !tweets.errors) {
-            await storeTweets(tweets);
-            console.log(`🐣 stored ${tweets.length} tweets.`);
+(async function Main() {
+    for(const fetcher of fetchTasks) {
+        try {
+            const credentialsFile = path.resolve(__dirname, '../credentials.json');
+            if (fs.existsSync(credentialsFile)) {
+                const credentalsJson = fs.readFileSync(credentialsFile).toString();
+                const credentials = JSON.parse(credentalsJson);
+                console.log(credentials);
+                fetcher.setCredentials(credentials);
+            }
+            var data = await fetcher.fetch(config[fetcher.type], index);
+            if (data.length > 0) {
+                await storeTweets(data, fetcher.type);
+                console.log(`🐣 stored ${data.length} posts from ${fetcher.type}.`);
+            }
+        } catch (e) {
+            console.log(`exception while fetching from ${fetcher.type}.`, e, e.stack);
+            console.log(JSON.stringify(e));
         }
-    } catch (e) {
-        console.log(`exception while fetching tweets.`, e, e.stack);
-        console.log(JSON.stringify(e));
     }
     process.exit(0);
-})(args[0], index.latestId);
+})();
